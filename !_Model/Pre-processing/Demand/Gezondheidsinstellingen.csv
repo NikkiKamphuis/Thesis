@@ -1,0 +1,503 @@
+Latitude;Longitude;Naam;Stad;Hoofdinstelling;Aantal locaties ;Hoofdlocatie;Aantal bedden;Opmerking bedden;Eerste poliklinische bezoeken (2018);Eerste poliklinische bezoeken (2022);Dagbehandelingen;Klinische opnames;Aantal medewerkers;Verzorgingsgebied;Sanquin uitwisseling;Partner [Ja/Nee];Contract datum;Straat;Nummer;Postcode;Type instelling;Type ziekenhuis;Aantal locaties norm.;Aantal bedden norm.;Eerste poliklinische bezoeken (2023) norm.;Dagbehandelingen norm.;Klinische opnames norm.;Aantal medewerkers norm.;Sanquin uitwisseling norm.;Som;Som norm.;Website
+51,4858525;4,3137344;Accureon - Bergen op Zoom;Bergen op Zoom;Accureon;3;-;;;;;;;;;;Ja;44927;Boerhaaveplein;1;4624 VT;Laboratorium;;;;;;;;;;;https://accureon.nl/
+51,5286414;4,4373425;Accureon - Roosendaal;Roosendaal;Accureon;3;-;;;;;;;;;;Ja;44927;Boerhaavelaan;25;4708 AE;Laboratorium;;;;;;;;;;;https://accureon.nl/
+51,3090862;3,8597855;Accureon - Terneuzen;Terneuzen;Accureon;3;-;;;;;;;;;;Ja;44927;Wielingenlaan;2;4535 PA;Laboratorium;;;;;;;;;;;https://accureon.nl/
+52,3857653;4,8409167;Acidadem - Amsterdam;Amsterdam;Acidadem;2;-;;;;;;;;;;Nee;;Arlandaweg;100;1043 HP;Private kliniek;;;;;;;;;;;
+51,9232872;4,3417294;Acidadem - Vlaardingen;Vlaardingen;Acidadem;2;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+51,8394516;5,0186135;A15 Apotheek;Gorinchem;A15 Apotheek;1;-;;;;;;;;;;Nee;;Buys Ballotstraat;2;4207 HT;Groothandel;;;;;;;;;;;http://www.apotheeka15.nl/
+51,48482056;3,907333395;ADRZ - Goes;Goes;ADRZ;3;Ja;390;;98267;89101;18280;16554;2170;380000;102;Nee;;;;;Ziekenhuis;;0,2;0,19;0,35;0,35;0,1;0,09;0,32;1,59;0,32;https://www.adrz.nl/
+51,45128408;3,566060884;ADRZ - Vlissingen;Vlissingen;ADRZ;3;Nee;;;;;;;;;;Nee;;;;;Ziekenhuis;;;;;;;;;;;https://www.adrz.nl/
+51,6564964;3,9286712;ADRZ - Zierikzee;Zierikzee;ADRZ;3;Nee;;;;;;;;;;Nee;;;;;Ziekenhuis;;;;;;;;;;;https://www.adrz.nl/
+51,79181724;4,682541975;Albert Schweitzer Ziekenhuis - Dordwijk;Dordrecht;Albert Schweitzer Ziekenhuis;4;Ja;515;;152963;125625;24157;21247;4200;;88;Nee;;;;;Ziekenhuis;;0,27;0,3;0,54;0,51;0,15;0,22;0,27;2,26;0,5;
+51,8666648;4,602513;Albert Schweitzer Ziekenhuis - Ridderkerk;Ridderkerk;Albert Schweitzer Ziekenhuis;4;Nee;;;;;;;;;;Nee;;Jan Luykenstraat;8;2985 BV;Polikliniek;;;;;;;;;;;
+51,8284202;4,7769612;Albert Schweitzer Ziekenhuis - Sliedrecht;Sliedrecht;Albert Schweitzer Ziekenhuis;4;Nee;;;;;;;;;;Nee;;Stationspark;401;3364 DA;Ziekenhuis;;;;;;;;;;;
+51,8264605;4,629492785;Albert Schweitzer Ziekenhuis - Zwijndrecht;Zwijndrecht;Albert Schweitzer Ziekenhuis;4;Nee;;;;;;;;;19;Nee;;;;;Ziekenhuis;;;;;;;;;;;
+52,1558282;5,2061798;Alexander Monro Ziekenhuis - Borstkankerziekenhuis;Bilthoven;Alexander Monro Ziekenhuis;1;-;;;;;;;;;;Nee;;Professor Bronkhorstlaan;10;3723 MB;Private kliniek;;;;;;;;;;;
+51,9659439;4,5531039;Alexis Kliniek;Rotterdam;Alexis Kliniek;1;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+51,8300483;5,7594803;Alliance Healthcare - Alloga;Wijchen;Alliance Healthcare;6;;;;;;;;;;;Nee;;Bijsterhuizen;2204;6604 LD;Groothandel;;;;;;;;;;;
+52,1746487;5,9662247;Alliance Healthcare - SPITS;Apeldoorn;Alliance Healthcare;6;;;;;;;;;;;Nee;;Oude Apeldoornseweg ;35d;7333 NR;Groothandel;;;;;;;;;;;
+51,9067917;4,5822573;Alliance Healthcare - Stephar;Krimpen aan den Ijssel;Alliance Healthcare;6;;;;;;;;;;;Nee;;Van der Giessenweg;5;2921 LP;Groothandel;;;;;;;;;;;
+51,6253789;5,5129326;Alliance Healthcare Nederland;Veghel;Alliance Healthcare;6;;;;;;;;;;;Nee;;De Amert;603;5462 GH;Groothandel;;;;;;;;;;;
+51,7007889;5,2742705;Alliance Healthcare Nederland Hoofdkantoor;'s-Hertogenbosch;Alliance Healthcare;6;;;;;;;;;;;Nee;;Pomphoekweg;1;5222 BE;Groothandel;;;;;;;;;;;
+52,6916647;6,1703694;Alliance Healthcare - Meppel;Meppel;Alliance Healthcare;6;;;;;;;;;;;Nee;;Oliemolenweg ;8;7944HX;Groothandel;;;;;;;;;;;
+52,1428839;4,6613989;Alrijne Ziekenhuis - Alphen aan den Rijn;Alphen aan den Rijn;Alrijne Ziekenhuis;5;Nee;;;;;;;;;;Nee;;Meteoorlaan;4;2402WC;Ziekenhuis;;;;;;;;;;;http://www.alrijne.nl/
+52,1997139;4,404629;Alrijne Ziekenhuis - Katwijk;Katwijk;Alrijne Ziekenhuis;5;Nee;;;;;;;;;;Nee;;Randweg;47;2225 PJ;Polikliniek;;;;;;;;;;;http://www.alrijne.nl/
+52,17382915;4,482974753;Alrijne Ziekenhuis - Leiden;Leiden;Alrijne Ziekenhuis;5;Ja;494;;153971;135018;25326;20754;4400;;98;Nee;;;;;Ziekenhuis;;0,33;0,28;0,59;0,54;0,15;0,23;0,3;2,43;0,55;http://www.alrijne.nl/
+52,15666315;4,540884951;Alrijne Ziekenhuis - Leiderdorp;Leidendrop;Alrijne Ziekenhuis;5;Nee;;;;;;;;;;Nee;;;;;Ziekenhuis;;;;;;;;;;;http://www.alrijne.nl/
+52,2285793;4,5254047;Alrijne Ziekenhuis - Sassenheim;Sassenheim;Alrijne Ziekenhuis;5;Nee;;;;;;;;;;Nee;;Jan van Brabantweg;33;2171 HE;Polikliniek;;;;;;;;;;;http://www.alrijne.nl/
+51,5815694;4,7984708;Amphia Breda - Breda;Breda;Amphia Ziekenhuis;3;Ja;805;;188767;171325;30684;32210;4570;400000;112;Nee;;Molengracht;21;4818CK;Ziekenhuis;;0,2;0,55;0,79;0,69;0,27;0,24;0,35;3,08;0,73;
+51,5698749;4,6613685;Amphia Ziekenhuis - Etten-Leur;Etten-Leur;Amphia Ziekenhuis;3;Nee;;;;;;;;;;Nee;;Trivium;76;4873 LP;Ziekenhuis;;;;;;;;;;;
+51,64764932;4,870278515;Amphia Ziekenhuis - Oosterhout;Oosterhout;Amphia Ziekenhuis;3;Nee;;;;;;;;;;Nee;;Pasteurlaan;9;4901DH;Ziekenhuis;;;;;;;;;;;
+52,29222794;4,956947459;Amsterdam UMC - AMC;Amsterdam;A-UMC;2;Nee;;;;;;;;;175;Ja;1-1-2022;Meibergdreef;9;1105AZ;Ziekenhuis;Academisch (NFU);;;;;;;;;;
+52,33459261;4,859503355;Amsterdam UMC - VUMC;Amsterdam;A-UMC;2;Ja;1002;;93058;105615;22978;28564;16000;;131;Ja;1-1-2022;De Boelelaan;1117;1081HV;Ziekenhuis;Academisch (NFU);0,13;0,71;0,44;0,48;0,23;1;0,41;3,4;0,82;http://www.vumc.nl
+52,3252812;4,8830847;Andros Blaascentrum - Amsterdam;Amsterdam;Andros Clinics;5;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+51,9535314;5,8732256;Andros Blaascentrum - Arnhem;Arnhem;Andros Clinics;5;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,2232233;5,2644097;Andros Blaascentrum - Baarn;Baarn;Andros Clinics;5;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+51,6861808;5,3029927;Andros Blaascentrum - Den Bosch;Den Bosch;Andros Clinics;5;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,0812779;4,3206636;Andros Blaascentrum - Den Haag;Den Haag;Andros Clinics;5;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+50,8479188;5,6688266;Annadal Kliniek;Maastricht;Annadal Kliniek;1;-;;;;;;;;;;Nee;;Brouwersweg;100 C02;6216EG;Ziekenhuis;;;;;;;;;;;https://www.annadal-kliniek.nl/
+52,35031133;4,825758249;Antoni van Leeuwenhoek;Amsterdam;Antoni van Leeuwenhoek;1;Ja;212;;115526;23858;17173;8230;3000;;146;Nee;;Plesmanlaan;121;1066CX;Ziekenhuis;;0,07;0,04;0;0,32;0,01;0,14;0,45;1,04;0,17;http://www.avl.nl
+52,70368314;5,733378238;Antonius Ziekenhuis - Emmeloord;Emmeloord;Antonius Zorggroep;2;Nee;;;;;;;;;;Nee;;Urkerweg;4;8303BX;Ziekenhuis;;;;;;;;;;;https://www.mijnantonius.nl
+53,03510261;5,642269244;Antonius Ziekenhuis - Sneek;Sneek;Antonius Zorggroep;2;Ja;286;;66236;57963;14510;10190;6370;;25;Nee;;Bolswarderbaan;1;8601 ZK;Ziekenhuis;;0,13;0,1;0,18;0,25;0,03;0,36;0,07;1,14;0,19;https://www.mijnantonius.nl/
+52,1421825;5,5860802;ApneuCentrum Nederland;Barneveld;ApneuCentrum Nederland;1;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,2940196;4,8729921;Atalmedial - Amstelveen (Amstelland Ziekenhuis);Amstelveen;Atalmedial;1;-;;;;;;;;;;Nee;;Laan van de Helende Meesters;8;1186 AM;Laboratorium;;;;;;;;;;;
+51,8860135;4,4881592;B12 institute;Rotterdam;B12 institute;1;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,2902535;4,7085312;Bayer BV - Hoofddorp;Hoofddorp;Bayer BV;2;-;;;;;;;;;;Nee;;Siriusdreef;36;2132 WT;Farmaceut;;;;;;;;;;;
+50,8459723;5,7025897;Bayer BV - Maastricht;Maastricht;Bayer BV;2;-;;;;;;;;;;Nee;;Avenue Ceramique;27;6221 KV;Farmaceut;;;;;;;;;;;
+51,83914751;4,9569501;Beatrix ziekenhuis - Gorinchem;Gorinchem;Rivas Zorggroep;2;Ja;219;;56867;53328;11747;9505;4500;;89;Nee;;;;;Ziekenhuis;;0,13;0,05;0,16;0,17;0,03;0,24;0,27;1,05;0,17;
+51,8912506;5,1069653;Beatrix ziekenhuis - Leerdam;Leerdam;Rivas Zorggroep;2;Nee;;;;;;;;;;Nee;;Lingesteynplantsoen;3;4141 GH ;Polikliniek;;;;;;;;;;;
+52,4967965;5,4741496;Beekman Klinieken;Lelystad;Beekman Klinieken;1;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+51,4122639;5,4146011;Behandel Centrum Neurologie;Veldhoven;Behandel Centrum Neurologie;1;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,3676196;5,1883044;Bergman Clinics KNO - Almere;Almere;Bergman Clinics KNO;8;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,1892867;5,4149633;Bergman Clinics KNO - Amersfoort;Amersfoort;Bergman Clinics KNO;8;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,3222432;4,9733518;Bergman Clinics KNO - Amsterdam Bijlmer;Amsterdam;Bergman Clinics KNO;8;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,3565051;4,9974134;Bergman Clinics KNO - Amsterdam Ijburg;Amsterdam;Bergman Clinics KNO;8;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,0497888;5,2741516;Bergman Clinics KNO - Driebergen;Driebergen;Bergman Clinics KNO;8;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,2188397;5,200228;Bergman Clinics KNO - Hilversum;Hilversum;Bergman Clinics KNO;8;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,2111229;5,0263718;Bergman Clinics KNO - Loenen aan de Vecht;Loenen an de Vecht;Bergman Clinics KNO;8;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,0494986;4,3478913;Bergman Clinics KNO - Rijswijk;Rijswijk;Bergman Clinics KNO;8;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,6244898;4,7723141;Bergman Clinics Vrouw - Alkmaar;Alkmaar;Bergman Clinics Vrouw;9;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,3285702;4,8657759;Bergman Clinics Vrouw - Amsterdam;Amsterdam;Bergman Clinics Vrouw;9;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,2954946;4,9550225;Bergman Clinics Vrouw - Amsterdam AUMC;Amsterdam;Bergman Clinics Vrouw;9;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,1545958;5,2069567;Bergman Clinics Vrouw - Bilthoven;Bilthoven;Bergman Clinics Vrouw;9;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+51,7148757;5,2954212;Bergman Clinics Vrouw - Den Bosch;Den Bosch;Bergman Clinics Vrouw;9;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,0157252;5,653643;Bergman Clinics Vrouw - Ede;Ede;Bergman Clinics Vrouw;9;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,9405422;5,9416866;Bergman Clinics Vrouw - Heerenveen;Heerenveen;Bergman Clinics Vrouw;9;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,2114326;5,1947961;Bergman Clinics Vrouw - Hilversum;Hilversum;Bergman Clinics Vrouw;9;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,0468733;4,3459822;Bergman Clinics Vrouw - Rijswijk;Rijswijk;Bergman Clinics Vrouw;9;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+51,7576451;5,5228145;Bernhoven - Oss;Oss;Bernhoven;2;Nee;;;;;;;;;;Nee;;Gezondheidslaan ;1A;5342 JW;Polikliniek;;;;;;;;;;;http://www.bernhoven.nl/
+51,67395775;5,606558216;Bernhoven - Uden;Uden;Bernhoven;2;Ja;392;;91944;75131;14121;13204;8000;280000;95;Nee;;;;;Ziekenhuis;;0,13;0,19;0,27;0,24;0,07;0,47;0,29;1,67;0,34;http://www.bernhoven.nl/
+52,3923841;4,8405782;Boehringer Ingelheim;Amsterdam;Boehringer Ingelheim;1;-;;;;;;;;;;Nee;;Basisweg;10;1043 AP;Farmaceut;;;;;;;;;;;
+52,40465064;4,922063612;BovenIJ Ziekenhuis;Amsterdam;BovenIJ Ziekenhuis;1;Ja;188;;57725;52639;5405;8024;980;;57;Nee;;;;;Ziekenhuis;;0,07;0,02;0,15;0;0,01;0,01;0,17;0,43;0;
+52,9924409;6,5200723;Braam Kliniek;Assen;Braam Kliniek;1;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+51,4866813;4,3146655;Bravis Ziekenhuis - Bergen op Zoom;Bergen op Zoom;Bravis Ziekenhuis;5;Ja;610;;132638;107108;17245;19762;3290;270000;71;Nee;;Boerhaaveplein;1;4624VT;Ziekenhuis;;0,33;0,38;0,44;0,32;0,14;0,16;0,22;1,99;0,43;https://www.bravisziekenhuis.nl
+51,5719368;4,6500935;Bravis Ziekenhuis - Etten-Leur;Etten-Leur;Bravis Ziekenhuis;5;Nee;;;;;;;;;;Nee;;Schoonhout ;215;4872 MC;Polikliniek;;;;;;;;;;;
+51,5910378;4,5239704;Bravis Ziekenhuis - Oudenbosch;Oudenbosch;Bravis Ziekenhuis;5;Nee;;;;;;;;;;Nee;;;;;Polikliniek;;;;;;;;;;;
+51,52827369;4,438839384;Bravis Ziekenhuis - Roosendaal;Roosendaal;Bravis Ziekenhuis;5;Nee;;;;;;;;;29;Nee;;Boerhaavelaan;25;4708AE;Ziekenhuis;;;;;;;;;;;https://www.bravisziekenhuis.nl
+51,5883192;4,3137839;Bravis Ziekenhuis - Steenbergen;Steenbergen;Bravis Ziekenhuis;5;Nee;;;;;;;;;;Nee;;;;;Polikliniek;;;;;;;;;;;
+52,3952622;4,7891801;Brocacef - Amsterdam;Amsterdam;Brocacef;4;;;;;;;;;;;Nee;;;;;Groothandel;;;;;;;;;;;
+52,3534339;4,7675667;Brocacef - Amsterdam Osdorp;Amsterdam;Brocacef;4;;;;;;;;;;;Nee;;;;;Groothandel;;;;;;;;;;;
+51,4412858;5,384767;Brocacef - Eindhoven;Eindhoven;Brocacef;4;;;;;;;;;;;Nee;;;;;Groothandel;;;;;;;;;;;
+52,126436;5,0565918;Brocacef - Maarssen;Maarssen;Brocacef;4;;;;;;;;;;;Nee;;Straatweg ;2;3604 BB;Groothandel;;;;;;;;;;;
+51,8880138;5,6150479;Canisius-Wilhelmina Ziekenhuis (CWZ) - Druten;Druten;CWZ;3;Nee;;;;;;;;;;Nee;;Kerkeland;3;6651KN;Polikliniek;Top klinisch (Santeon);;;;;;;;;;https://www.cwz.nl/
+51,817494;5,830817046;Canisius-Wilhelmina Ziekenhuis (CWZ) - Nijmegen;Nijmegen;CWZ;3;Ja;533;;127452;106942;22828;20183;4000;;116;Nee;;Weg door Jonkerbos;100;6532SZ;Ziekenhuis;Top klinisch (Santeon);0,2;0,31;0,44;0,48;0,14;0,21;0,36;2,14;0,47;https://www.cwz.nl/
+51,8819906;5,8453079;Canisius-Wilhelmina Ziekenhuis (CWZ) - Waalsprong;Nijmegen;CWZ;3;Nee;;;;;;;;;;Nee;;Carbatinastraat;3;6515GM;Polikliniek;Top klinisch (Santeon);;;;;;;;;;https://www.cwz.nl/
+52,0928529;4,302724;Carnegie Clinics;Den Haag;Carnegie Clinics;1;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+51,46570253;5,471986912;Catharina Ziekenhuis;Eindhoven;Catharina Ziekenhuis;1;Ja;663;;129023;112487;23438;22152;3500;;116;Nee;;Michelangelolaan;2;5623EJ;Ziekenhuis;Top klinisch (Santeon);0,07;0,42;0,47;0,49;0,16;0,17;0,36;2,15;0,47;https://www.catharinaziekenhuis.nl/
+52,087251;5,1767582;Centraal Militair Hospitaal;Utrecht;Centraal Militair Hospitaal;1;-;;;;;;;;;;Nee;;;;;Ziekenhuis;;;;;;;;;;;
+53,1932059;6,5503201;Certe - Groningen;Groningen;Certe;3;-;;;;;;;;;;Ja;6-12-2019;Van Swietenlaan;2;9728 NZ;Laboratorium;;;;;;;;;;;https://www.certe.nl/
+53,1897401;6,5508018;Certe - Groningen;Groningen;Certe;3;-;;;;;;;;;;Ja;6-12-2019;Paterswoldseweg;804;9728 BM;Laboratorium;;;;;;;;;;;https://www.certe.nl/
+53,2104113;5,7889069;Certe - Leeuwarden;Leeuwarden;Certe;3;-;;;;;;;;;;Ja;6-12-2019;Jelsumerstraat;6;8917 EN;Laboratorium;;;;;;;;;;;https://www.certe.nl/
+52,1665843;4,4698372;CHDR;Leiden;CHDR;1;-;;;;;;;;;;Nee;;Zernikedreef;8;2333 CL;Farmaceut;;;;;;;;;;;
+50,8464272;5,6695926;Chirurgisch Centrum Maastricht;Maastricht;Chirurgisch Centrum Maastricht;1;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,6471999;5,0539305;Comicro B.V. (Dijklander Ziekenhuis);Hoorn;;0;-;;;;;;;;;;Nee;;Maelsonstraat;3;1624 NP;Laboratorium;;;;;;;;;;;
+50,9198783;5,9092431;Cura Clinic - Hoensbroek;Hoensbroek;Cura Clinic;3;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+50,8483166;5,6687023;Cura Clinic - Maastricht;Maastricht;Cura Clinic;3;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+51,3736582;6,1698785;Cura Clinic - Venlo;Venlo;Cura Clinic;3;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,3854397;4,6213023;Curilion;Haarlem;Curilion;1;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,1710774;5,3693848;Da Vinci Kliniek - Amersfoort;Amersfoort;Da Vinci Kliniek;6;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,0010869;5,9099609;Da Vinci Kliniek - Arnhem;Arnhem;Da Vinci Kliniek;6;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+51,4228622;5,5541336;Da Vinci Kliniek - Geldrop;Geldrop;Da Vinci Kliniek;6;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,7265542;6,4574681;Da Vinci Kliniek - Hoogeveen;Hoogeveen;Da Vinci Kliniek;6;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+51,8957194;4,4854709;Da Vinci Kliniek - Rotterdam;Rotterdam;Da Vinci Kliniek;6;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+51,686108;5,0544047;Da Vinci Kliniek - Waalwijk;Waalwijk;Da Vinci Kliniek;6;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,6245671;4,7725089;DC Klinieken - Alkmaar;Alkmaar;DC Klinieken;15;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,3655944;5,1841988;DC Klinieken - Almere;Almere;DC Klinieken;15;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,3622689;4,8795245;DC Klinieken - Amsterdam;Amsterdam;DC Klinieken;15;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,1794743;5,9835652;DC Klinieken - Apeldoorn;Apeldoorn;DC Klinieken;15;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+51,6052215;4,7223085;DC Klinieken - Breda;Breda;DC Klinieken;15;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,0682001;4,3272154;DC Klinieken - Den Haag;Den Haag;DC Klinieken;15;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+53,3201269;5,9918896;DC Klinieken - Dokkum;Dokkum;DC Klinieken;15;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+53,2082838;6,5698142;DC Klinieken - Groningen;Groningen;DC Klinieken;15;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,2628546;6,7728883;DC Klinieken - Hengelo;Hengelo;DC Klinieken;15;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,3520734;4,8648523;DC Klinieken - Lairesse;Lairesse;DC Klinieken;15;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+50,8464306;5,6694491;DC Klinieken - Maastricht;Maastricht;DC Klinieken;15;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+51,1891575;5,9872534;DC Klinieken - Roermond;Roermond;DC Klinieken;15;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+51,9118712;4,4811636;DC Klinieken - Rotterdam;Rotterdam;DC Klinieken;15;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+51,9285749;4,374026;DC Klinieken - Schiedam;Schiedam;DC Klinieken;15;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,1330902;4,4616618;DC Klinieken - Voorschoten;Voorschoten;DC Klinieken;15;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,3705535;5,22332;De Kinderkliniek;Almere;De Kinderkliniek;1;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,3211962;4,9681861;De Vrouwenkliniek;Amsterdam;De Vrouwenkliniek;1;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,26109649;6,191610629;Deventer Ziekenhuis - Deventer;Deventer;Deventer Ziekenhuis;3;Ja;350;;93548;75822;18627;14557;2330;;74;Nee;;Nico Bolkesteinlaan;75;7416SE;Ziekenhuis;;0,2;0,16;0,28;0,36;0,08;0,1;0,23;1,4;0,27;https://www.dz.nl/
+52,3996941;6,2727407;Deventer Ziekenhuis - Raalte;Raalte;Deventer Ziekenhuis;3;Nee;;;;;;;;;;Nee;;;;;Polikliniek;;;;;;;;;;;
+52,3018915;6,5187097;Deventer Ziekenhuis - Rijssen;Rijssen;Deventer Ziekenhuis;3;Nee;;;;;;;;;;Nee;;;;;Polikliniek;;;;;;;;;;;
+52,252202;6,1675637;Diabeter - Deventer;Deventer;Diabeter;5;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+51,4426778;5,4727751;Diabeter - Eindhoven;Eindhoven;Diabeter;5;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+53,215296;6,5809866;Diabeter - Groningen;Groningen;Diabeter;5;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+51,9195595;4,4898467;Diabeter - Rotterdam;Rotterdam;Diabeter;5;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,3059041;4,7527374;Diabeter - Schiphol;Schiphol;Diabeter;5;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+51,4863058;5,4288219;Diagnostiek voor U;Eindhoven;;0;-;;;;;;;;;;Nee;;Boschdijk;1119;5626 AG;Laboratorium;;;;;;;;;;;
+52,6472656;5,053915;Diagnost-IQ B.V. - Hoorn (Dijklander Ziekenhuis);Hoorn;Diagnost-IQ B.V.;2;-;;;;;;;;;;Nee;;Maelsonstraat;3;1624 NP;Laboratorium;;;;;;;;;;;
+52,5008211;4,9633248;Diagnost-IQ B.V. - Purmerend (Dijklander Ziekenhuis);Purmerend;Diagnost-IQ B.V.;2;-;;;;;;;;;;Nee;;Waterlandlaan;250;1441 RN;Laboratorium;;;;;;;;;;;
+52,0353245;5,3512746;Diakonessenhuis - Doorn;Doorn;Diakonessenhuis;3;Nee;;;;;;;;;;Nee;;;;;Ziekenhuis;;;;;;;;;;;
+52,0816268;5,1385598;Diakonessenhuis - Utrecht;Utrecht;Diakonessenhuis;3;Ja;546;;158127;143458;20580;19648;2800;;55;Nee;;;;;Ziekenhuis;;0,2;0,32;0,64;0,41;0,14;0,13;0,17;2,01;0,43;
+52,0912691;5,2621641;Diakonessenhuis - Zeist;Zeist;Diakonessenhuis;3;Nee;;;;;;;;;;Nee;;;;;Ziekenhuis;;;;;;;;;;;
+52,7033267;5,2815643;Dijklander Ziekenhuis - Enkhuizen;Enkhuizen;Dijklander Ziekenhuis;4;Ja;534;;148991;121683;24574;19296;3270;;;Nee;;;;;Ziekenhuis;;0,27;0,31;0,52;0,52;0,13;0,16;-0,01;1,91;0,41;
+52,6471962;5,0541604;Dijklander Ziekenhuis - Hoorn;Hoorn;Dijklander Ziekenhuis;4;Nee;;;;;;;;;68;Nee;;Maelsonstraat;3;1624NP;Ziekenhuis;;;;;;;;;;;
+52,5004649;4,9624926;Dijklander Ziekenhuis - Purmerend;Purmerend;Dijklander Ziekenhuis;4;Nee;;;;;;;;;53;Nee;;Waterlandlaan;250;1441RN;Ziekenhuis;;;;;;;;;;;https://www.dijklander.nl
+52,4920359;5,056353;Dijklander Ziekenhuis - Volendam;Volendam;Dijklander Ziekenhuis;4;Nee;;;;;;;;;;Nee;;;;;Polikliniek;;;;;;;;;;;
+51,54026634;5,104468795;Elisabeth-TweeSteden Ziekenhuis;Tilburg;Elisabeth-TweeStedenziekenhuis;4;Ja;936;;148557;166399;26483;31984;6500;;137;Nee;;;;;Ziekenhuis;;0,27;0,66;0,76;0,58;0,27;0,37;0,43;3,32;0,8;https://www.etz.nl
+51,57730744;5,059400052;Elisabeth-TweeSteden Ziekenhuis;Tilburg;Elisabeth-TweeStedenziekenhuis;4;Nee;;;;;;;;;;Nee;;Doctor Deelenlaan;5;5042AD;Ziekenhuis;;;;;;;;;;;https://www.etz.nl
+51,5736013;5,1810606;Elisabeth-TweeStedenziekenhuis - Oisterwijk;Oisterwijk;Elisabeth-TweeStedenziekenhuis;4;Nee;;;;;;;;;;Nee;;;;;Polikliniek;;;;;;;;;;;https://www.etz.nl
+51,6859904;5,0533357;Elisabeth-TweeStedenziekenhuis - Waalwijk;Waalwijk;Elisabeth-TweeStedenziekenhuis;4;Nee;;;;;;;;;;Nee;;Kasteellaan;4;5141BM;Ziekenhuis;;;;;;;;;;;https://www.etz.nl
+51,4682183;5,7904601;Elkerliek Ziekenhuis - Deurne;Deurne;Elkerliek Ziekenhuis;3;Nee;;;;;;;;;;Nee;;Dunantweg;16;5751CB;Ziekenhuis;;;;;;;;;;;https://www.elkerliek.nl
+51,5545512;5,6854341;Elkerliek Ziekenhuis - Gemert;Gemert;Elkerliek Ziekenhuis;3;Nee;;;;;;;;;;Nee;;;;;Polikliniek;;;;;;;;;;;https://www.elkerliek.nl
+51,4818128;5,6424049;Elkerliek Ziekenhuis - Helmond;Helmond;Elkerliek Ziekenhuis;3;Ja;363;;96586;75309;13452;12422;2000;;101;Nee;;Wesselmanlaan;25;5707HA;Ziekenhuis;;0,2;0,17;0,27;0,22;0,06;0,07;0,31;1,31;0,24;https://www.elkerliek.nl
+51,6486584;5,9423054;Ellesie Vrouwenkliniek - Boxmeer;Boxmeer;Ellesie Vrouwenkliniek;2;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+51,8417232;4,9928184;Ellesie Vrouwenkliniek - Gorinchem;Gorinchem;Ellesie Vrouwenkliniek;2;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+51,91089029;4,468339336;Erasmus Medisch Centrum;Rotterdam;Erasmus Medisch Centrum;2;Ja;1125;;133050;121817;35459;30888;14000;;104;Ja;;;;;Ziekenhuis;Academisch (NFU);0,13;0,82;0,52;0,82;0,26;0,87;0,32;3,74;0,91;https://www.erasmusmc.nl/
+51,9120499;4,4701664;Erasmus Medisch Centrum - Sophia Kinderziekenhuis;Rotterdam;Erasmus Medisch Centrum;2;Nee;;;;;;;;;;Nee;;;;;Ziekenhuis;;;;;;;;;;;https://www.erasmusmc.nl/
+51,592063;4,8263672;Eurofins Central Laboratory B.V.;Breda;;0;-;;;;;;;;;;Nee;;Bergschot;71;4817 PA;Laboratorium;;;;;;;;;;;https://www.eurofins.nl/nl/
+52,36905997;5,223447726;Flevoziekenhuis;Almere;Flevoziekenhuis;1;Ja;394;;71105;90455;10046;15656;1347;;71;Nee;;;;;Ziekenhuis;;0,07;0,2;0,36;0,13;0,09;0,03;0,22;1,08;0,18;https://www.flevoziekenhuis.nl
+51,9635824;4,584844;Fagron;Capelle aan den IJssel;;1;-;;;;;;;;;;Nee;;Venkelbaan;101;2908 KE;Groothandel;;;;;;;;;;;https://www.fagron.nl/nl-nl/
+51,996671;4,4740471;Franciscus Gasthuis & Vlietland - Berkel en Rodenrijs;Berkel;Franciscus Gasthuis & Vlietland;5;Nee;;;;;;;;;;Nee;;;;;Ziekenhuis;;;;;;;;;;;https://www.franciscus.nl/
+51,9297185;4,2430016;Franciscus Gasthuis & Vlietland - Maassluis;Maassluis;Franciscus Gasthuis & Vlietland;5;Nee;;;;;;;;;;Nee;;;;;Ziekenhuis;;;;;;;;;;;https://www.franciscus.nl/
+51,94170762;4,463298875;Franciscus Gasthuis & Vlietland - Rotterdam;Rotterdam;Franciscus Gasthuis & Vlietland;5;Nee;;;;;;;;;75;Nee;;;;;Ziekenhuis;;;;;;;;;;;https://www.franciscus.nl/
+51,92237525;4,380241347;Franciscus Gasthuis & Vlietland - Schiedam;Schiedam;Franciscus Gasthuis & Vlietland;5;Ja;873;;213055;171766;23026;32448;5040;;50;Nee;;Vlietlandplein;2;3118JH;Ziekenhuis;;0,33;0,6;0,79;0,48;0,27;0,28;0,15;2,91;0,68;https://www.franciscus.nl/
+51,9100421;4,4818938;Franciscus Gasthuis & Vlietland - Willemsplein;Rotterdam;Franciscus Gasthuis & Vlietland;5;Nee;;;;;;;;;;Nee;;;;;Ziekenhuis;;;;;;;;;;;https://www.franciscus.nl/
+52,1682725;4,4511807;Galapagos B.V.;Leiden;Galapagos B.V.;1;-;;;;;;;;;;Nee;;Willem Einthovenstraat;13;2343 BH;Farmaceut;;;;;;;;;;;https://www.glpg.com/nederland/
+52,18125131;5,947332971;Gelre Ziekenhuizen - Apeldoorn;Apeldoorn;Gelre Ziekenhuizen;5;Ja;1064;;135338;135338;19765;21451;3500;280000;47;Nee;;Albert Schweitzerlaan;31;7334DZ;Ziekenhuis;;0,33;0,77;0,59;0,39;0,15;0,17;0,14;2,56;0,59;https://www.gelreziekenhuizen.nl
+52,0508859;6,099249;Gelre Ziekenhuizen - Dieren;Dieren;Gelre Ziekenhuizen;5;Nee;;;;;;;;;;Nee;;;;;Polikliniek;;;;;;;;;;;
+52,3499402;5,9814035;Gelre Ziekenhuizen - Epe;Epe;Gelre Ziekenhuizen;5;Nee;;;;;;;;;;Nee;;;;;Polikliniek;;;;;;;;;;;
+52,1557842;6,4237235;Gelre Ziekenhuizen - Lochem;Lochem;Gelre Ziekenhuizen;5;Nee;;;;;;;;;;Nee;;;;;Polikliniek;;;;;;;;;;;
+52,12400984;6,217991352;Gelre Ziekenhuizen - Zutphen;Zutphen;Gelre Ziekenhuizen;5;Nee;;;;;;;;;41;Nee;;;;;Ziekenhuis;;;;;;;;;;;https://www.gelreziekenhuizen.nl
+52,1247574;5,2351185;Gender Clinic Chirurgie;Bosch en Duin;Gender Clinic Chirurgie;1;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,3624618;4,9090038;Geneeskundige en Gezondheidsdienst (GGD) - Amsterdam;Amsterdam;;0;-;;;;;;;;;;Nee;;Nieuwe Achtergracht;100;1018 WT;Laboratorium;;;;;;;;;;;
+52,0210973;4,7066477;Groene Hart Ziekenhuis - Bleulandweg  Gouda;Gouda;Groene Hart Ziekenhuis;5;Ja;390;;105814;85557;15607;15008;2205;;82;Nee;;;;;Ziekenhuis;;0,33;0,19;0,33;0,28;0,09;0,09;0,25;1,56;0,31;
+52,0880044;4,7487042;Groene Hart Ziekenhuis - Bodegraven;Bodegraven;Groene Hart Ziekenhuis;5;Nee;;;;;;;;;;Nee;;;;;Polikliniek;;;;;;;;;;;
+52,02158407;4,705967831;Groene Hart Ziekenhuis - Gouda;Gouda;Groene Hart Ziekenhuis;5;Nee;;;;;;;;;;Nee;;Bleulandweg;10;2803HH;Ziekenhuis;;;;;;;;;;;https://www.ghz.nl/
+51,9459613;4,8466253;Groene Hart Ziekenhuis - Schoonhoven;Schoonhoven;Groene Hart Ziekenhuis;5;Nee;;;;;;;;;;Nee;;;;;Polikliniek;;;;;;;;;;;
+51,9671804;4,6176873;Groene Hart Ziekenhuis - Zuidplas Nieuwerkerk aan den IJssel;Nieuwerkerk aan den IJssel;Groene Hart Ziekenhuis;5;Nee;;;;;;;;;;Nee;;;;;Ziekenhuis;;;;;;;;;;;
+52,6445408;4,7266507;Gynaecologisch Centrum Alkmaar;Alkmaar;Gynaecologisch Centrum Alkmaar;1;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,0552273;4,2637967;HagaZiekenhuis - Juliana Kinderziekenhuis;'s-Gravenhage;Haga Group;3;Nee;;;;;;;;;;Nee;;;;;Ziekenhuis;;;;;;;;;;;
+52,05559494;4,26330382;HagaZiekenhuis - Leyweg;'s-Gravenhage;Haga Group;3;Ja;637;;159116;114327;21973;22990;5000;;108;Nee;;Els Borst-Eilersplein;275;2545AA;Ziekenhuis;;0,2;0,4;0,48;0,45;0,17;0,27;0,33;2,31;0,52;https://www.hagaziekenhuis.nl/
+52,0024014;4,1587841;HagaZiekenhuis - Westland 's-Gravenzande; 's-Gravenzande;Haga Group;3;Nee;;;;;;;;;;Nee;;;;;Ziekenhuis;;;;;;;;;;;
+52,3081347;4,9381981;Heelkunde Instituut Nederland - Amsterdam;Amsterdam;Heelkunde Instituut Nederland;4;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,2393748;6,8425413;Heelkunde Instituut Nederland - Enschede;Enschede;Heelkunde Instituut Nederland;4;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+51,9465535;4,53893;Heelkunde Instituut Nederland - Rotterdam;Rotterdam;Heelkunde Instituut Nederland;4;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,0030409;5,9673763;Heelkunde Instituut Nederland - Rozendaal;Rozendaal;Heelkunde Instituut Nederland;4;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+51,9150315;4,4800328;Het Oog Ziekenhuis;Rotterdam;Het Oog Ziekenhuis;1;-;;;;;;;;;;Nee;;Schiedamse Vest;180;3011BH;Ziekenhuis;;;;;;;;;;;
+51,897477;4,1746519;Het Van Weel-Bethesda Ziekenhuis - Brielle;Brielle;Van Weel-Bethesda Ziekenhuis;4;Nee;;;;;;;;;;Nee;;;;;Polikliniek;;;;;;;;;;;
+51,7501217;4,1019543;Het Van Weel-Bethesda Ziekenhuis - Dirksland;Dirksland;Van Weel-Bethesda Ziekenhuis;4;Ja;193;;50452;46844;6411;8624;1120;;58;Nee;;;;;Ziekenhuis;;0,27;0,02;0,12;0,03;0,02;0,02;0,18;0,65;0,06;https://www.vanweelbethesda.nl/
+51,8329046;4,1488622;Het Van Weel-Bethesda Ziekenhuis - Het nieuwe Weergors Hellevoetsluis;Hellevoetsluis;Van Weel-Bethesda Ziekenhuis;4;Nee;;;;;;;;;;Nee;;;;;Polikliniek;;;;;;;;;;;
+51,8338649;4,1389923;Het Van Weel-Bethesda Ziekenhuis - 't Dok Hellevoetsluis;Hellevoetsluis;Van Weel-Bethesda Ziekenhuis;4;Nee;;;;;;;;;;Nee;;;;;Medisch centrum;;;;;;;;;;;
+52,0925754;4,3834479;HMC - Antoniushove;Leidschendam;Haaglanden Medisch Centrum;5;Nee;;;;;;;;;40;Nee;;Burgemeester Banninglaan;1;2262BA;Ziekenhuis;;;;;;;;;;;http://www.haaglandenmc.nl/
+52,10140517;4,317874347;HMC - Bronovo;'s-Gravenhage;Haaglanden Medisch Centrum;5;Nee;;;;;;;;;2;Nee;;Bronovolaan;5;2597AX;Ziekenhuis;;;;;;;;;;;http://www.haaglandenmc.nl/
+52,0870954;4,2773161;HMC - Statenkwartier;'s-Gravenhage;Haaglanden Medisch Centrum;5;Nee;;;;;;;;;;Nee;;;;;Polikliniek;;;;;;;;;;;
+52,1466927;4,3993069;HMC - Wassenaar;Wassenaar;Haaglanden Medisch Centrum;5;Nee;;;;;;;;;;Nee;;;;;Polikliniek;;;;;;;;;;;
+52,07413885;4,29989268;HMC - Westeinde;'s-Gravenhage;Haaglanden Medisch Centrum;5;Ja;695;;204947;184546;22081;27075;4500;;103;Nee;;Lijnbaan;32;2512VA;Ziekenhuis;;0,33;0,45;0,86;0,46;0,21;0,24;0,32;2,87;0,67;http://www.haaglandenmc.nl/
+52,3532392;4,9326127;Huid Medisch Centrum - Linnaeushof;Amsterdam;Huid Medisch Centrum;4;-;;;;;;;;;;Nee;;Linnaeushof;6;1098 KH;Medisch centrum;;;;;;;;;;;www.huidmedischcentrum.nl
+52,3598082;4,8038922;Huid Medisch Centrum - Osdorpplein;Amsterdam;Huid Medisch Centrum;4;-;;;;;;;;;;Nee;;Osdorpplein;358;1068 EV;Medisch centrum;;;;;;;;;;;www.huidmedischcentrum.nl
+52,2962463;4,9521693;Huid Medisch Centrum - Paasheuvelweg;Amsterdam;Huid Medisch Centrum;4;-;;;;;;;;;;Nee;;Paasheuvelweg;28;1105BJ;Medisch centrum;;;;;;;;;;;www.huidmedischcentrum.nl
+52,3602288;4,8957569;Huid Medisch Centrum - Reguliersgracht;Amsterdam;Huid Medisch Centrum;4;-;;;;;;;;;;Nee;;Reguliersgracht ;130;1017 LZ;Medisch centrum;;;;;;;;;;;www.huidmedischcentrum.nl
+51,449232;4,0062464;Huisartsenteam Zorg op Zak;Hansweert;Zorg op Zak;4;-;;;;;;;;;;Nee;;Kerklaan;11;4417BD;Huisarts;;;;;;;;;;;https://www.huisartsenteamzorgopzak.nl/
+51,4307567;3,8205202;Huisartsenteam Zorg op Zak - Ovezande;Ovezande;Zorg op Zak;4;-;;;;;;;;;;Nee;;Pastoor Fransestraat;2;4441AX;Huisarts;;;;;;;;;;;https://www.huisartsenteamzorgopzak.nl/
+51,4573468;3,8979187;Huisartsenteam Zorg op Zak - 's-Gravenpolder;s-Gravenpolder;Zorg op Zak;4;-;;;;;;;;;;Nee;;Bosseweide;2;4431 AE;Huisarts;;;;;;;;;;;
+51,4521094;3,7694238;Huisartsenteam Zorg op Zak - 's-Heerenhoek;s-Heerenhoek;Zorg op Zak;4;-;;;;;;;;;;Nee;;Laustraat ;1-A;4453AV;Huisarts;;;;;;;;;;;https://www.huisartsenteamzorgopzak.nl/
+52,0435863;4,3329277;Hyperbaar Geneeskundig Centrum Rijswijk;Rijswijk;Hyperbaar Geneeskundig Centrum Rijswijk;1;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+51,93898354;4,562655533;IJsselland Ziekenhuis - Capelle aan de Ijsel;Capelle aan de Ijsel;IJsselland Ziekenhuis;3;Ja;332;;101103;71879;14893;13627;1900;;78;Nee;;;;;Ziekenhuis;;0,2;0,14;0,26;0,26;0,07;0,07;0,24;1,24;0,22;
+51,9391541;4,5629011;IJsselland Ziekenhuis - Krimpen aan de Ijsel;Krimpen aan de Ijsel;IJsselland Ziekenhuis;3;Nee;;;;;;;;;;Nee;;;;;Polikliniek;;;;;;;;;;;
+51,9800863;4,5839309;IJsselland Ziekenhuis - Nesselande Rotterdam;Rotterdam;IJsselland Ziekenhuis;3;Nee;;;;;;;;;;Nee;;;;;Polikliniek;;;;;;;;;;;
+51,88590746;4,493380329;Ikazia Ziekenhuis;Rotterdam;Ikazia Ziekenhuis;3;Ja;354;;85239;76729;12908;14818;2576;;110;Nee;;;;;Ziekenhuis;;0,2;0,16;0,28;0,2;0,08;0,11;0,34;1,38;0,26;https://www.ikazia.nl/
+51,8488396;4,500395;Ikazia Ziekenhuis - Barendrecht;Barendrecht;Ikazia Ziekenhuis;3;Nee;;;;;;;;;;Nee;;;;;Polikliniek;;;;;;;;;;;
+51,8786562;4,60472;Ikazia Ziekenhuis - Ridderkerk-Slikkerveer;Ridderkerk;Ikazia Ziekenhuis;3;Nee;;;;;;;;;;Nee;;;;;Polikliniek;;;;;;;;;;;
+52,4125921;6,0536264;Isala - Heerde;Heerde;Isala Ziekenhuis;5;Nee;;;;;;;;;;Ja;;;;;Polikliniek;;;;;;;;;;;
+52,55165993;5,919467185;Isala - Kampen;Kampen;Isala Ziekenhuis;5;Nee;;;;;;;;;;Ja;;;;;Polikliniek;;;;;;;;;;;
+52,69010856;6,213260362;Isala - Meppel;Meppel;Isala Ziekenhuis;5;Nee;;;;;;;;;22;Ja;;Reggersweg;2;7943KC;Ziekenhuis;;;;;;;;;;;https://www.isala.nl/
+52,7934462;6,120685;Isala - Steenwijk;Steenwijk;Isala Ziekenhuis;5;Nee;;;;;;;;;;Ja;;;;;Polikliniek;;;;;;;;;;;
+52,51255304;6,124173971;Isala - Zwolle;Zwolle;Isala Ziekenhuis;5;Ja;1103;;223658;211445;32688;39466;6878;;103;Ja;;Dokter van Heesweg;2;8025AB;Ziekenhuis;;0,33;0,8;1;0,74;0,35;0,4;0,32;3,94;0,97;https://www.isala.nl/
+52,1666613;4,4562762;Janssen Biologics B.V.;Leiden;Janssen;3;-;;;;;;;;;;Nee;;Einsteinweg;92;2333 CB;Farmaceut;;;;;;;;;;;https://www.janssen.com/
+52,1655341;4,467082;Janssen Vaccines & Prevention B.V.;Leiden;Janssen;3;-;;;;;;;;;;Nee;;Archimedesweg;4-jun;2333 CN;Farmaceut;;;;;;;;;;;https://www.janssen.com/
+51,5675471;4,7528726;Janssen-Cilag BV;Breda;Janssen;3;-;;;;;;;;;;Nee;;Graaf Engelbertlaan;75;4837 DS;Farmaceut;;;;;;;;;;;https://www.janssen.com/
+51,5940047;5,3209513;Jeroen Bosch Ziekenhuis - Boxtel;Boxtel;Jeroen Bosch Ziekenhuis;4;Nee;;;;;;;;;;Nee;;;;;Ziekenhuis;;;;;;;;;;;https://jbz.nl
+51,68519519;5,275868872;Jeroen Bosch Ziekenhuis - Den Bosch;Den Bosch;Jeroen Bosch Ziekenhuis;4;Ja;678;;153976;133309;28319;25362;4000;;101;Nee;;;;;Ziekenhuis;;0,27;0,44;0,58;0,63;0,2;0,21;0,31;2,63;0,61;https://jbz.nl
+51,6903253;5,1440649;Jeroen Bosch Ziekenhuis - Drunen;Drunen;Jeroen Bosch Ziekenhuis;4;Nee;;;;;;;;;;Nee;;;;;Polikliniek;;;;;;;;;;;
+51,7136447;5,3703338;Jeroen Bosch Ziekenhuis - Rosmalen;Rosmalen;Jeroen Bosch Ziekenhuis;4;Nee;;;;;;;;;;Nee;;De Hoef;90;5242CN;Polikliniek;;;;;;;;;;;https://jbz.nl
+52,1768323;5,4120377;Johnson & Johnson Medical Devices ;Amersfoort;Johnson&Johnson;1;-;;;;;;;;;;Nee;;Computerweg;14;3821 AB;Farmaceut;;;;;;;;;;;
+51,936199;4,6001507;Kaakchirurgie Holland - Capelle aan de Ijssel;Capelle aan de Ijssel;Kaakchirurgie Holland;5;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+51,9222412;4,4908144;Kaakchirurgie Holland - Rotterdam;Rotterdam;Kaakchirurgie Holland;5;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+51,9177038;4,4033783;Kaakchirurgie Holland - Schiedam;Schiedam;Kaakchirurgie Holland;5;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+51,9092446;4,3409272;Kaakchirurgie Holland - Vlaardingen;Vlaardingen;Kaakchirurgie Holland;5;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+51,8161076;4,6401417;Kaakchirurgie Holland - Zwijndrecht;Zwijndrecht;Kaakchirurgie Holland;5;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,4968024;5,4741051;Kaakchirurgie Lelystad;Lelystad;Kaakchirurgie Lelystad;1;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+53,0276938;6,5706412;Keizer Kliniek - Assen;Assen;Keizer Kliniek;3;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,0556329;4,3877438;Keizer Kliniek - Den Haag;Den Haag;Keizer Kliniek;3;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,122126;4,447323;Keizer Kliniek - Voorschoten;Voorschoten;Keizer Kliniek;3;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,2958228;4,7207766;Kite Pharma;Hoofddorp;Kite Pharma;1;-;;;;;;;;;;Nee;;Tufsteen;1A;2132 NT;Farmaceut;;;;;;;;;;;
+52,5071496;5,4759529;Kroon Kliniek Lelystad;Lelystad;Kroon Kliniek Lelystad;1;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,0680439;4,3529764;Lab West B.V.;'s Gravenhage;;0;-;;;;;;;;;;Nee;;Maanweg;174;2516 AB;Laboratorium;;;;;;;;;;;https://www.lab-west.nl/
+52,2645387;6,7735783;Laboratorium Microbiologie Twente Achterhoek (Ziekenhuisgroep Twente);Hengelo;;0;-;;;;;;;;;;Nee;;Boerhaavelaan;59;7555 BB;Laboratorium;;;;;;;;;;;
+52,0688799;4,499527;LangeLand Ziekenhuis;Zoetermeer;LangeLand Ziekenhuis;2;Ja;220;;67473;60096;6663;8720;6000;;33;Nee;;Toneellaan;1;2725NA;Ziekenhuis;;0,13;0,05;0,19;0,03;0,02;0,34;0,1;0,86;0,12;https://www.langeland.nl/
+52,063806;4,4942167;LangeLand Ziekenhuis - Europaweg Zoetermeer;Zoetermeer;LangeLand Ziekenhuis;2;Nee;;;;;;;;;;Nee;;;;;Polikliniek;;;;;;;;;;;
+51,19182803;6,000559331;Laurentius Ziekenhuis;Roermond;Laurentius;1;Ja;271;;87802;87619;16527;11615;1691;;78;Nee;;;;;Ziekenhuis;;0,07;0,09;0,34;0,3;0,05;0,05;0,24;1,14;0,2;https://www.laurentiusziekenhuisroermond.nl
+52,0372556;4,3314634;Leids Cytologisch en Pathologisch Laboratorium;Rijswijk;;0;-;;;;;;;;;;Nee;;Visseringlaan;25;2288 ER;Laboratorium;;;;;;;;;;;
+52,16612192;4,477302693;Leids Universitair Medisch Centrum;Leiden;Leids Universitair Medisch Centrum;2;Ja;882;;97287;71253;17599;21236;8800;;319;Nee;;;;;Ziekenhuis;Academisch (NFU);0,13;0,61;0,25;0,33;0,15;0,52;1;3,01;0,71;https://www.lumc.nl/
+52,1660506;4,4777927;Leids Universitair Medisch Centrum - Willen-Alexander Kinderziekenhuis;Leiden;Leids Universitair Medisch Centrum;2;Nee;;;;;;;;;;Nee;;;;;Ziekenhuis;;;;;;;;;;;
+51,6851823;5,3559387;Luminex Corporation;Den Bosch;Luminex Corporation;1;-;;;;;;;;;;Nee;;Het Zuiderkruis;1;5215 MV;Farmaceut;;;;;;;;;;;
+51,87947576;4,535417681;Maasstad Ziekenhuis;Rotterdam;Maasstad Ziekenhuis;1;Ja;646;;132820;107022;19802;24570;3500;;108;Nee;;Maasstadweg;21;3079DZ;Ziekenhuis;Top klinisch (Santeon);0,07;0,41;0,44;0,39;0,19;0,17;0,33;2,01;0,43;https://www.maasstadziekenhuis.nl/
+50,83437204;5,713201904;Maastricht UMC+;Maastricht;Maastricht UMC+;1;Ja;695;;109404;90627;18483;22383;7000;;76;Nee;;P. Debyelaan;25;6229HX;Ziekenhuis;Academisch (NFU);0,07;0,45;0,36;0,36;0,16;0,4;0,23;2,03;0,44;https://www.mumc.nl/
+51,6635586;5,9403546;Maasziekenhuis Pantein;Beugen/Boxmeer;Maasziekenhuis Pantein;1;Ja;168;;38815;37273;9687;7716;3500;130000;48;Nee;;Dokter Kopstraat;1;5835DV;Ziekenhuis;;0,07;0;0,07;0,12;0,01;0,17;0,15;0,58;0,04;https://www.maasziekenhuispantein.nl/
+53,19171738;6,550824786;Martini Ziekenhuis;Groningen;Martini Ziekenhuis;1;Ja;625;;144511;123900;22372;23467;3220;;137;Nee;;Van Swietenplein;1;9728NT;Ziekenhuis;Top klinisch (Santeon);0,07;0,39;0,53;0,46;0,18;0,16;0,43;2,21;0,49;https://www.martiniziekenhuis.nl/
+51,45435998;5,487878961;Maxima Medisch Centrum - Eindhoven;Eindhoven;Maxima Medisch Centrum;2;Nee;;;;;;;;;;Nee;;;;;Ziekenhuis;;;;;;;;;;;https://www.mmc.nl/
+51,40575226;5,4195209;Maxima Medisch Centrum - Veldhoven;Veldhoven;Maxima Medisch Centrum;2;Ja;614;;124831;101841;16859;19511;3400;;236;Nee;;De Run;4600;5504DB;Ziekenhuis;;0,13;0,38;0,42;0,31;0,13;0,17;0,74;2,28;0,51;https://www.mmc.nl/
+52,3909715;4,5418627;MDS BV - Haarlem;Haarlem;MDS;3;-;;;;;;;;;;Nee;;Waarderweg;39;2031 BN;Farmaceut;;;;;;;;;;;https://msd.nl/
+52,17089166;5,369322495;Meander Medisch Centrum - Amersfoort;Amersfoort;Meander Medisch Centrum;6;Ja;556;;155623;132607;26960;21936;3265;;111;Nee;;Maatweg;3;3828NK;Ziekenhuis;;0,4;0,33;0,58;0,59;0,16;0,16;0,34;2,56;0,59;https://www.meandermc.nl
+52,2146645;5,2768616;Meander Medisch Centrum - Baarn;Baarn;Meander Medisch Centrum;6;Nee;;;;;;;;;;Nee;;Molenweg;2;3743CM;Ziekenhuis;;;;;;;;;;;https://www.meandermc.nl
+52,1238188;5,5771851;Meander Medisch Centrum - Barneveld;Barneveld;Meander Medisch Centrum;6;Nee;;;;;;;;;;Nee;;;;;Polikliniek;;;;;;;;;;;
+52,2441891;5,373096;Meander Medisch Centrum - Bunschoten;Bunschoten-Spakenburg;Meander Medisch Centrum;6;Nee;;;;;;;;;;Nee;;;;;Polikliniek;;;;;;;;;;;
+52,1315271;5,4288849;Meander Medisch Centrum - Leusen;Leusen;Meander Medisch Centrum;6;Nee;;;;;;;;;;Nee;;;;;Polikliniek;;;;;;;;;;;
+52,2233455;5,4925407;Meander Medisch Centrum - Nijkerk;Nijkerk;Meander Medisch Centrum;6;Nee;;;;;;;;;;Nee;;;;;Polikliniek;;;;;;;;;;;
+53,16229627;5,429766818;Medisch Centrum Leeuwarden - Harlingen;Harlingen;Medisch Centrum Leeuwarden;2;Nee;;;;;;;;;;Nee;;;;;Ziekenhuis;;;;;;;;;;;https://www.mcl.nl
+53,18913791;5,804265224;Medisch Centrum Leeuwarden - Leeuwarden;Leeuwarden;Medisch Centrum Leeuwarden;2;Ja;653;;174919;89420;21061;21925;3000;;82;Nee;;;;;Ziekenhuis;;0,13;0,42;0,35;0,43;0,16;0,14;0,25;1,88;0,4;https://www.mcl.nl/
+52,21616911;6,89182256;Medisch Spectrum Twente - Enschede;Enschede;Medisch Spectrum Twente;3;Ja;528;;121268;101476;19787;23701;3000;264000;95;Nee;;Koningsplein;1;7512KZ;Ziekenhuis;Top klinisch (Santeon);0,2;0,31;0,41;0,39;0,18;0,14;0,29;1,93;0,41;https://www.mst.nl/
+52,1600809;6,7530909;Medisch Spectrum Twente - Haaksbergen;Haaksbergen;Medisch Spectrum Twente;3;Nee;;;;;;;;;;Nee;;;;;Polikliniek;Top klinisch (Santeon);;;;;;;;;;
+52,3082846;6,930961219;Medisch Spectrum Twente - Oldenzaal;Oldenzaal;Medisch Spectrum Twente;3;Nee;;;;;;;;;;Nee;;;;;Polikliniek;Top klinisch (Santeon);;;;;;;;;;https://www.mst.nl/
+50,8574396;5,7163169;Medlab Dr. Stein;Maastricht;;0;-;;;;;;;;;;Nee;;Stadionplein;58;6225 XW;Laboratorium;;;;;;;;;;;
+52,3537683;6,7193022;MEDLON B.V. - Almelo (Ziekenhuisgroep Twente);Almelo;MEDLON B.V.;2;-;;;;;;;;;;Nee;;Zilvermeeuw;1;7609 PP;Laboratorium;;;;;;;;;;;https://www.medlon.nl/
+52,2163632;6,8932261;MEDLON B.V. - Enschede (Medisch Spectrum Twente);Enschede;MEDLON B.V.;2;-;;;;;;;;;;Nee;;Koningstraat;1;7512 KZ ;Laboratorium;;;;;;;;;;;https://www.medlon.nl/
+52,2803605;4,7528774;Merck Healthcare;Schiphol-Rijk;Merck Group;2;-;;;;;;;;;;Nee;;Tupolevlaan;41-61;1119 NW;Farmaceut;;;;;;;;;;;
+52,3041813;4,9527285;Merck Performance Materials;Amsterdam;Merck Group;2;-;;;;;;;;;;Nee;;Haarlerbergweg;21-223;1101 CH;Farmaceut;;;;;;;;;;;
+51,5816646;4,7979638;Microvida - Breda (Amphia Ziekenhuis);Breda;Microvida;4;-;;;;;;;;;;Nee;;Molengracht;21;4818 CK;Laboratorium;;;;;;;;;;;https://www.microvida.nl/
+51,5285912;4,4372332;Microvida - Roosendaal (Bravis Ziekenhuis);Roosendaal;Microvida;4;-;;;;;;;;;;Nee;;Boerhaavelaan;25;4708 AE;Laboratorium;;;;;;;;;;;https://www.microvida.nl/
+51,3092882;3,858846;Microvida - Terneuzen (ZorgSaam Ziekenhuis);Terneuzen;Microvida;4;-;;;;;;;;;;Nee;;Vlietstraat ;10;4535 HA;Laboratorium;;;;;;;;;;;https://www.microvida.nl/
+51,5400694;5,1038821;Microvida - Tilburg (Elisabeth-TweeSteden Ziekenhuis);Tilburg;Microvida;4;-;;;;;;;;;;Nee;;Hilvarenbeekseweg;60;5022 GC;Laboratorium;;;;;;;;;;;https://www.microvida.nl/
+52,4791;4,6508698;MKA Kennemer & Meer - Beverwijk;Beverwijk;MKA Kennemer & Meer;2;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,3814816;4,662553;MKA Kennemer & Meer - Haarlem;Haarlem;MKA Kennemer & Meer;2;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,0432025;4,361357;MKA Kliniek - Den Haag;Den Haag;MKA Kliniek;3;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+51,4379999;5,4807608;MKA Kliniek - Eindhoven;Eindhoven;MKA Kliniek;3;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,1077233;5,0118829;MKA Kliniek - Utrecht;Utrecht;MKA Kliniek;3;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+51,642578;5,9385775;MSD Animal Health - Boxmeer;Boxmeer;MDS;3;-;;;;;;;;;;Nee;;Wim de Körverstraat;35;5831 AN;Farmaceut;;;;;;;;;;;https://msd.nl/
+51,7870534;5,5558374;MSD Biotech B.V. - Oss;Oss;MDS;3;-;;;;;;;;;;Nee;;Vollenhovermeer;2;5347 JV;Farmaceut;;;;;;;;;;;https://msd.nl/
+52,0451181;4,3576652;Nederlands Forensisch Instituut;'s Gravenhage;;0;-;;;;;;;;;;Nee;;Laan van Ypenburg;6;2497 GB;Laboratorium;;;;;;;;;;;
+52,0372556;4,3314634;Nederlands Moleculair Diagnostisch Laboratorium B.V.;Rijswijk;;0;-;;;;;;;;;;Nee;;Visseringlaan;25;2288 ER;Laboratorium;;;;;;;;;;;
+52,1745716;5,4057262;Nederlands Slaap Instituut;Amersfoort;Nederlands Slaap Instituut;1;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,1130663;5,2546414;Nederlandse Obesitas Kliniek;Huis ter Heide;Nederlandse Obesitas Kliniek;1;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,2968377;5,2532605;Neprofarm;Huizen;Neprofarm;1;-;;;;;;;;;;Nee;;Huizermaatweg;354;1276 LK;Farmaceut;;;;;;;;;;;
+53,09966126;6,111638222;Nij Smellinghe;Drachten;Nij Smellinghe ;1;Ja;265;;76414;65278;6410;9921;1630;;44;Nee;;;;;Ziekenhuis;Algemeen ;0,07;0,09;0,22;0,03;0,03;0,05;0,13;0,61;0,05;
+52,62811399;4,735888965;Noordwest Ziekenhuisgroep - Alkmaar;Alkmaar;Noordwest Ziekenhuisgroep;7;Ja;829;;166430;133781;29964;30148;4840;;109;Nee;;Wilhelminalaan;131;1815HM;Ziekenhuis;;0,47;0,57;0,59;0,67;0,25;0,26;0,34;3,14;0,74;https://www.nwz.nl
+52,6446007;4,7267174;Noordwest Ziekenhuisgroep - Alkmaar-Bergermeer;Alkmaar;Noordwest Ziekenhuisgroep;7;Nee;;;;;;;;;;Nee;;;;;Ziekenhuis;;;;;;;;;;;https://www.nwz.nl
+52,9581653;4,744279388;Noordwest Ziekenhuisgroep - Den Helder;Den Helder;Noordwest Ziekenhuisgroep;7;Nee;;;;;;;;;63;Nee;;Huisduinerweg;3;1782 GZ;Ziekenhuis;;;;;;;;;;;https://www.nwz.nl
+52,6691587;4,8229495;Noordwest Ziekenhuisgroep - Heerhugowaard;Heerhugowaard;Noordwest Ziekenhuisgroep;7;Nee;;;;;;;;;;Nee;;Stationsplein;49;1703WD;Ziekenhuis;;;;;;;;;;;https://www.nwz.nl
+52,573105;4,6989698;Noordwest Ziekenhuisgroep - Limmen;Limmen;Noordwest Ziekenhuisgroep;7;Nee;;;;;;;;;;Nee;;;;;Ziekenhuis;;;;;;;;;;;
+52,7832855;4,8076107;Noordwest Ziekenhuisgroep - Schagen;Schagen;Noordwest Ziekenhuisgroep;7;Nee;;;;;;;;;;Nee;;;;;Ziekenhuis;;;;;;;;;;;https://www.nwz.nl
+53,0558002;4,7866114;Noordwest Ziekenhuisgroep - Texel;Den Burg;Noordwest Ziekenhuisgroep;7;Nee;;;;;;;;;;Nee;;;;;Polikliniek;;;;;;;;;;;
+52,3103302;4,9432598;Novartis Pharma B.V.;Amsterdam;Novartis Pharma B.V.;2;-;;;;;;;;;;Nee;;Haaksbergweg;16;1101 BX;Farmaceut;;;;;;;;;;;https://www.novartis.com/nl-nl/
+52,3576664;4,991293;OLVG - Ijburg;Amsterdam;Onze Lieve Vrouwen Gasthuis;3;Nee;;;;;;;;;;Nee;;;;;Ziekenhuis;Top klinisch (Santeon);;;;;;;;;;
+52,35815026;4,915330279;OLVG - Oost;Amsterdam;Onze Lieve Vrouwen Gasthuis;3;Nee;;;;;;;;;123;Nee;;;;;Ziekenhuis;Top klinisch (Santeon);;;;;;;;;;https://www.olvg.nl/
+52,37090437;4,83988974;OLVG - West;Amsterdam;Onze Lieve Vrouwen Gasthuis;3;Ja;1010;;234324;169562;31574;33708;7000;;223;Nee;;Jan Tooropstraat;164;1061AE;Ziekenhuis;Top klinisch (Santeon);0,2;0,72;0,78;0,71;0,29;0,4;0,7;3,8;0,93;https://www.olvg.nl/
+53,18309987;6,958749512;Ommelander Ziekenhuis Groningen - Scheemda;Scheemda;Ommelander Ziekenhuis Groningen;1;Ja;191;;67801;68492;11724;9117;1300;;55;Nee;;;;;Ziekenhuis;;0,07;0,02;0,24;0,17;0,02;0,03;0,17;0,72;0,08;https://www.ommelanderziekenhuis.nl
+52,0650151;4,4925263;Orfeokliniek;Zoetermeer;Orfeokliniek;1;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,3406279;4,8586261;Organon Pharma BV - Amsterdam;Amsterdam;Organon Pharma BV;2;-;;;;;;;;;;Nee;;Fred Roeskestraat;115;1076 EE;Farmaceut;;;;;;;;;;;
+51,7636847;5,5314135;Organon Pharma BV - Oss;Oss;Organon Pharma BV;2;-;;;;;;;;;;Nee;;Kloosterstraat;6;5349 AB;Farmaceut;;;;;;;;;;;
+51,9429098;4,4601221;Pathan B.V. (Franciscus Gasthuis);Rotterdam;;0;-;;;;;;;;;;Nee;;Kleiweg;500;3045 PM;Laboratorium;;;;;;;;;;;
+51,9139403;4,5418627;Pfizer;Capelle aan de Ijsel;Pfizer;1;-;;;;;;;;;;Nee;;Rivium Westlaan;142;2909 LD;Farmaceut;;;;;;;;;;;https://www.pfizer.nl/
+52,1630758;4,475969;Pharming Group N.V.;Leiden;Pharming Group N.V.;1;-;;;;;;;;;;Nee;;Vondellaan;47;2332 AA;Farmaceut;;;;;;;;;;;https://www.pharming.com/nl
+52,6192729;4,7626474;Plurifarm - Alkmaar;Alkmaar;Plurifarm;1;;;;;;;;;;;Nee;;Phoenixstraat;21;1812 PP;Groothandel;;;;;;;;;;;
+52,6500072;4,7395192;PoliDirect - Alkmaar;Alkmaar;PoliDirect;14;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,3561949;4,9939231;PoliDirect - Amsterdam Ijburg;Amsterdam;PoliDirect;14;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,39123;4,9411379;PoliDirect - Amsterdam Noord;Amsterdam;PoliDirect;14;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,3736752;4,8340833;PoliDirect - Amsterdam West;Amsterdam;PoliDirect;14;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+51,5750123;4,7649755;PoliDirect - Breda;Breda;PoliDirect;14;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+51,8130323;4,6771266;PoliDirect - Dordrecht;Dordrecht;PoliDirect;14;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+51,4423285;5,4407924;PoliDirect - Eindhoven;Eindhoven;PoliDirect;14;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,2349991;6,5900389;PoliDirect - Goor;Goor;PoliDirect;14;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,3471679;4,6266001;PoliDirect - Heemstede;Heemstede;PoliDirect;14;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,0273278;5,080874;PoliDirect - Niewegein;Nieuwegein;PoliDirect;14;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+51,7945671;5,6381129;PoliDirect - Ravenstein;Ravenstein;PoliDirect;14;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+51,8284518;4,7770614;PoliDirect - Sliedrecht;Sliedrecht;PoliDirect;14;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+51,5549292;5,1031946;PoliDirect - Tilburg;Tilburg;PoliDirect;14;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,5145337;6,1213338;PoliDirect - Zwolle;Zwolle;PoliDirect;14;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,0568729;4,3384465;Polikliniek de Blaak - Rijswijk;Rijswijk;Polikliniek de Blaak;3;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+51,9190785;4,4857557;Polikliniek de Blaak - Rotterdam;Rotterdam;Polikliniek de Blaak;3;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+51,5756889;4,9946707;Polikliniek de Blaak - Tilburg;Tilburg;Polikliniek de Blaak;3;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+51,5044075;5,3793662;Polikliniek Proktovar - Best;Best;Polikliniek Proktovar;2;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,2837743;6,7769165;Polikliniek Proktovar - Hengelo;Hengelo;Polikliniek Proktovar;2;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,09017434;5,183775142;Prinses Maxima Centrum Utrecht;Utrecht;Prinses Maxima Centrum Utrecht;1;-;;;;;;;;;;Nee;;;;;Ziekenhuis;;;;;;;;;;;https://prinsesmaximacentrum.nl/
+52,3481207;4,8255051;Proctos Kliniek - Amsterdam;Amsterdam;Proctos Kliniek;3;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,1545436;5,2070458;Proctos Kliniek - Bilthoven;Bilthoven;Proctos Kliniek;3;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+51,9196766;4,4952396;Proctos Kliniek - Rotterdam;Rotterdam;Proctos Kliniek;3;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+53,2219832;6,5735409;QPS;Groningen;QPS;1;-;;;;;;;;;;Nee;;Hanzeplein;1;9713 GZ;Farmaceut;;;;;;;;;;;
+51,82305409;5,862410576;Radboud Universitair Medisch Centrum;Nijmegen;Radboud Universitair Medisch Centrum;2;Ja;1100;;97100;78766;17785;21616;11000;;36;Nee;;Geert Grooteplein Zuid;10;6525GA;Ziekenhuis;Academisch (NFU);0,13;0,8;0,29;0,34;0,16;0,67;0,11;2,49;0,57;https://www.radboudumc.nl
+51,8227303;5,8637499;Radboud Universitair Medisch Centrum - Amalia Kinderziekenhuis;Nijmegen;Radboud Universitair Medisch Centrum;2;Nee;;;;;;;;;;Nee;;;;;Ziekenhuis;;;;;;;;;;;
+51,7919433;4,6824239;Regionaal Laboratorium Medische Microbiologie - Dordrecht (Albert Schwietzer Ziekenhuis);Dordrecht;;0;-;;;;;;;;;;Nee;;Albert Schweitzerplaats;25;3318 AT;Laboratorium;;;;;;;;;;;
+51,8386893;4,9574576;Regionaal Laboratorium Medische Microbiologie - Gorinchem (Beatrixziekenhuis);Gorinchem;;0;-;;;;;;;;;;Nee;;Banneweg ;57;4204 AA;Laboratorium;;;;;;;;;;;
+51,99722622;4,337299455;Reinier de Graaf Gasthuis - Delft;Delft;Haga Groep/Reinier de Graaf Ziekenhuis;4;Ja;481;;89618;89618;18062;19895;2500;450000;113;Nee;;Reinier de Graafweg;5;2625AD;Ziekenhuis;;0,27;0,27;0,35;0,35;0,14;0,11;0,35;1,83;0,38;https://reinierdegraaf.nl/
+52,0609883;4,3513778;Reinier de Graaf Gasthuis - Voorburg;Voorburg;Haga Groep/Reinier de Graaf Ziekenhuis;4;Nee;;;;;;;;;;Nee;;;;;Polikliniek;;;;;;;;;;;
+51,9903841;4,2160906;Reinier de Graaf Gasthuis - Westland;Naaldwijk;Haga Groep/Reinier de Graaf Ziekenhuis;4;Nee;;;;;;;;;;Nee;;;;;Ziekenhuis;;;;;;;;;;;
+52,0516732;4,3851774;Reinier de Graaf Gasthuis - Ypenburg;Ypenburg;Haga Groep/Reinier de Graaf Ziekenhuis;4;Nee;;;;;;;;;;Nee;;;;;Polikliniek;;;;;;;;;;;
+51,5818511;4,7975737;ResultLab - Breda (Amphia Ziekenhuis);Breda;ResultLab;6;-;;;;;;;;;;Ja;1-8-2021;Molengracht;21;4818 CK;Laboratorium;;;;;;;;;;;https://resultlaboratorium.nl/
+51,5749414;4,7649747;ResultLab - Breda (PoliDirect Breda);Breda;ResultLab;6;-;;;;;;;;;;Ja;1-8-2021;Langendijk;25;4819 ET;Laboratorium;;;;;;;;;;;https://resultlaboratorium.nl/
+51,7916836;4,6827954;ResultLab - Dordrecht (Albert Schweitzer Ziekenhuis);Dordrecht;ResultLab;6;-;;;;;;;;;;Ja;1-8-2021;Albert Schweitzerplaats;25;3318 AT;Laboratorium;;;;;;;;;;;https://resultlaboratorium.nl/
+51,8387178;4,9573892;ResultLab - Gorinchem (Beatrix Ziekenhuis);Gorinchem;ResultLab;6;-;;;;;;;;;;Ja;1-8-2021;Banneweg;57;4204 AA;Laboratorium;;;;;;;;;;;https://resultlaboratorium.nl/
+51,650463;4,6062151;ResultLab - Zevenbergen;Zevenbergen;ResultLab;6;-;;;;;;;;;;Ja;1-8-2021;Schansdijk;;;Laboratorium;;;;;;;;;;;https://resultlaboratorium.nl/
+51,8268319;4,629474;ResultLab - Zwijndrecht (Albert Schweitzer Ziekenhuis);Zwijndrecht;ResultLab;6;;;;;;;;;;;Ja;1-8-2021;Langeweg;336;3331 LZ;Laboratorium;;;;;;;;;;;https://resultlaboratorium.nl/
+51,2655456;3,9123157;Reumazorg ZWN - Axel;Axel;Reumazorg Zuid West Nederland;11;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,7072627;5,7428328;Reumazorg ZWN - Emmeloord;Emmeloord;Reumazorg Zuid West Nederland;11;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+51,4967916;3,8871997;Reumazorg ZWN - Goes;Goes;Reumazorg Zuid West Nederland;11;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,5015905;5,4199539;Reumazorg ZWN - Lelystad;Lelystad;Reumazorg Zuid West Nederland;11;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,8438216;5,7127697;Reumazorg ZWN - Lemmer;Lemmer;Reumazorg Zuid West Nederland;11;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+51,3253452;3,4825095;Reumazorg ZWN - Oostburg;Oostburg;Reumazorg Zuid West Nederland;11;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+51,5233841;4,4643477;Reumazorg ZWN - Roosendaal;Roosendaal;Reumazorg Zuid West Nederland;11;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+51,3092099;3,8599916;Reumazorg ZWN - Terneuzen;Terneuzen;Reumazorg Zuid West Nederland;11;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,6639818;5,6286594;Reumazorg ZWN - Urk;Urk;Reumazorg Zuid West Nederland;11;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+51,4456298;3,565238;Reumazorg ZWN - Vlissingen;Vlissingen;Reumazorg Zuid West Nederland;11;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+51,6494208;3,9078356;Reumazorg ZWN - Ziekikzee;Ziekikzee;Reumazorg Zuid West Nederland;11;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,1186644;5,1890364;Rijksinstituut voor Volksgezondheid en Milieu (RIVM);Bilthoven;;0;-;;;;;;;;;;Nee;;Antonie van Leeuwenhoeklaan;9;3721 MA;Laboratorium;;;;;;;;;;;
+52,00068349;5,909479929;Rijnstate Ziekenhuis - Arnhem;Arnhem;Rijnstate ;4;Ja;772;;190276;146307;26997;28544;6500;;94;Nee;;Wagnerlaan;55;6815AG;Ziekenhuis;;0,27;0,52;0,65;0,59;0,23;0,37;0,29;2,92;0,69;https://www.rijnstate.nl/
+51,9493504;5,8846486;Rijnstate Ziekenhuis - Arnhem-Zuid;Arnhem;Rijnstate ;4;Nee;;;;;;;;;;Nee;;Marga KlompÃ©laan;6;6836BH;Ziekenhuis;;;;;;;;;;;https://www.rijnstate.nl
+51,98597928;5,976749903;Rijnstate Ziekenhuis - Velp;Velp;Rijnstate ;4;Nee;;;;;;;;;;Nee;;President Kennedylaan;100;6883AZ;Ziekenhuis;;;;;;;;;;;https://www.rijnstate.nl/
+51,94227235;6,070163013;Rijnstate Ziekenhuis - Zevenaar;Zevenaar;Rijnstate ;4;Nee;;;;;;;;;;Nee;;Hunneveldweg;14A;6903ZN;Ziekenhuis;;;;;;;;;;;https://www.rijnstate.nl
+52,47925472;4,651011232;Rode Kruis Ziekenhuis - Beverwijk;Beverwijk;Rode Kruis Ziekenhuis;2;Ja;257;;70889;59744;12595;10786;1137;;52;Nee;;;;;Ziekenhuis;Algemeen;0,13;0,08;0,19;0,2;0,04;0,02;0,16;0,81;0,11;
+52,5191128;4,674803;Rode Kruis Ziekenhuis - Heemskerk;Heemskerk;Rode Kruis Ziekenhuis;2;Nee;;;;;;;;;;Nee;;;;;Polikliniek;;;;;;;;;;;
+52,0097576;4,3669344;Roosevelt Kliniek - Delft;Delft;Roosevelt Kliniek;3;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,1421157;4,4829093;Roosevelt Kliniek - Leiden;Leiden;Roosevelt Kliniek;3;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,0281264;4,1815092;Roosevelt Kliniek - Monster;Monster;Roosevelt Kliniek;3;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,3539146;4,8834274;Ruysdael Clinics - Amsterdam;Amsterdam;Ruysdael Clinics;4;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,1019978;4,2868013;Ruysdael Clinics - Den Haag;Den Haag;Ruysdael Clinics;4;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,2188234;5,2002252;Ruysdael Clinics - Hilversum;Hilversum;Ruysdael Clinics;4;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+51,5745972;5,181205;Ruysdael Clinics - Oisterwijk;Oisterwijk;Ruysdael Clinics;4;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,3556732;5,2483509;Sandoz B.V.;Almere;Novartis Pharma B.V.;2;-;;;;;;;;;;Nee;;Veluwezoom;22;1327 AH;Farmaceut;;;;;;;;;;;https://www.novartis.com/nl-nl/
+52,2974129;4,9543879;Sanofi NL;Amsterdam;Sanofi NL;1;-;;;;;;;;;;Nee;;Paasheuvelweg;25;1105 BP;Farmaceut;;;;;;;;;;;https://www.sanofi.nl/
+52,3509079;4,8232914;Sanquin - Amsterdam;Amsterdam;Sanquin;7;-;;;;;;;;;;Ja;;Plesmanlaan;125;1066 CX ;Bloedbank;;;;;;;;;;;https://www.sanquin.nl/
+52,2653719;6,1709958;Sanquin - Deventer;Deventer;Sanquin;7;-;;;;;;;;;;Ja;;Louis Pasteurstraat ;10b;7415 EP ;Bloedbank;;;;;;;;;;;https://www.sanquin.nl/
+51,4552557;5,4867614;Sanquin - Eindhoven;Eindhoven;Sanquin;7;-;;;;;;;;;;Ja;;Dominee Theodor Fliednerstraat;1;5631 BM ;Bloedbank;;;;;;;;;;;https://www.sanquin.nl/
+53,2229774;6,5716752;Sanquin - Groningen;Groningen;Sanquin;7;-;;;;;;;;;;Ja;;Hanzeplein;1;9713 GZ ;Bloedbank;;;;;;;;;;;https://www.sanquin.nl/
+50,8385069;5,7135114;Sanquin - Maastricht;Maastricht;Sanquin;7;-;;;;;;;;;;Ja;;Gaetano Martinolaan;95;6229 GS ;Bloedbank;;;;;;;;;;;https://www.sanquin.nl/
+51,8233902;5,8655063;Sanquin - Nijmegen;Nijmegen;Sanquin;7;-;;;;;;;;;;Ja;;Geert Grooteplein Zuid;34;6525 GA;Bloedbank;;;;;;;;;;;https://www.sanquin.nl/
+51,9118352;4,467905;Sanquin - Rotterdam;Rotterdam;Sanquin;7;-;;;;;;;;;;Ja;;Wytemaweg ;10;3015 CN ;Bloedbank;;;;;;;;;;;https://www.sanquin.nl/
+52,6615203;6,7473163;Saxenburgh Medisch Centrum - De Veltstroom Coevorden;Coevorden;Saxenburgh Groep;4;Nee;;;;;;;;;;Nee;;;;;Polikliniek;;;;;;;;;;;
+52,57216045;6,632342216;Saxenburgh Medisch Centrum - Hardenberg;Hardenberg;Saxenburgh Groep;4;Ja;165;;44659;40438;8901;7007;875;;53;Nee;;;;;Ziekenhuis;;0,27;0;0,09;0,1;0;0;0,16;0,61;0,05;https://www.saxenburgh.nl
+52,5252045;6,4207602;Saxenburgh Medisch Centrum - Ommen;Ommen;Saxenburgh Groep;4;Nee;;;;;;;;;;Nee;;;;;Polikliniek;;;;;;;;;;;
+52,4548716;6,6203135;Saxenburgh Medisch Centrum - Westerhaar;Westerhaar-Vriezenveensewijk;Saxenburgh Groep;4;Nee;;;;;;;;;;Nee;;;;;Polikliniek;;;;;;;;;;;
+51,448515;3,8828301;Scheldezoom Farmacie B.V.;s-Gravenpolder;Scheldezoom;1;-;;;;;;;;;;Nee;;Spoorstraat;16;4431NK;Farmacie;;;;;;;;;;;https://www.scheldezoom.nl/
+51,9829359;5,9884343;SHO Diagnostisch Centrum Vechtdal B.V.;Velp;;0;-;;;;;;;;;;Nee;;Florijnweg;4;6883 JP;Laboratorium;;;;;;;;;;;
+51,4168418;5,4775182;Sint Anna Ziekenhuis - Eindhoven;Eindhoven;Anna Ziekenhuis;2;Nee;;;;;;;;;;Nee;;Antoon Coolenlaan ;`103;5644 RX;Polikliniek;;;;;;;;;;;
+51,4198514;5,5585586;Sint Anna Ziekenhuis - Geldrop;Geldrop;Anna Ziekenhuis;2;Ja;295;;79250;73988;18166;11313;967;;66;Nee;;Bogardeind;2;5664EH;Ziekenhuis;;0,13;0,11;0,27;0,35;0,05;0,01;0,2;1,11;0,19;
+52,0251364;5,1777727;Sint Antonius Ziekenhuis - Houten;Houten;Sint Antonius;6;Nee;;;;;;;;;;Ja;2-4-2022;;;;Polikliniek;;;;;;;;;;;
+52,205731;4,8631207;Sint Antonius Ziekenhuis - Mijdrecht;Mijdrecht;Sint Antonius;6;Nee;;;;;;;;;;Ja;3-4-2022;;;;Polikliniek;;;;;;;;;;;
+52,02510121;5,08164725;Sint Antonius Ziekenhuis - Nieuwegein;Nieuwegein;Sint Antonius;6;Ja;1016;;229854;176530;42048;34791;5220;;124;Ja;1-4-2022;Koekoekslaan;1;3430EM;Ziekenhuis;Top klinisch (Santeon);0,4;0,72;0,81;1;0,3;0,29;0,38;3,91;0,96;https://www.antoniusziekenhuis.nl/
+52,10296844;5,057233354;Sint Antonius Ziekenhuis - Utrecht;Utrecht;Sint Antonius;6;Nee;;;;;;;;;62;Ja;1-4-2022;;;;Ziekenhuis;Top klinisch (Santeon);;;;;;;;;;https://www.antoniusziekenhuis.nl/
+52,1147047;5,1225588;Sint Antonius Ziekenhuis - Utrecht Overvecht;Utrecht;Sint Antonius;6;Nee;;;;;;;;;;Ja;4-4-2022;;;;Polikliniek;;;;;;;;;;;
+52,0800905;4,8918902;Sint Antonius Ziekenhuis - Woerden;Woerden;Sint Antonius;6;Nee;;;;;;;;;;Ja;1-4-2022;Polanerbaan;2;3447GN;Ziekenhuis;Top klinisch (Santeon);;;;;;;;;;https://www.antoniusziekenhuis.nl/
+51,2644192;5,5717672;Sint Jans Gasthuis - Budel;Budel;Sint Jans Gasthuis Weert;4;Nee;;;;;;;;;;Nee;;;;;Polikliniek;;;;;;;;;;;
+51,1727544;5,8257909;Sint Jans Gasthuis - Ittervoort;Ittervoort;Sint Jans Gasthuis Weert;4;Nee;;;;;;;;;;Nee;;;;;Polikliniek;;;;;;;;;;;
+51,3334754;5,9620561;Sint Jans Gasthuis - Panningen;Panningen;Sint Jans Gasthuis Weert;4;Nee;;;;;;;;;;Nee;;;;;Polikliniek;;;;;;;;;;;
+51,2545132;5,713239;Sint Jans Gasthuis - Weert;Weert;Sint Jans Gasthuis Weert;4;Ja;234;;72676;46593;7648;7143;968;;61;Nee;;;;;Ziekenhuis;;0,27;0,06;0,12;0,06;0;0,01;0,19;0,7;0,07;
+52,5378261;5,7028314;Sint Jansdal - Dronten ;Dronten;Sint Jansdal;5;Nee;;;;;;;;;;Nee;;;;;Polikliniek;;;;;;;;;;;
+52,34227044;5,616524887;Sint Jansdal - Hardewijk;Hardewijk;Sint Jansdal;5;Ja;341;;85071;108425;20408;16394;1970;;76;Nee;;;;;Ziekenhuis;;0,33;0,15;0,45;0,41;0,1;0,07;0,23;1,75;0,36;https://www.stjansdal.nl/
+52,50427663;5,476980539;Sint Jansdal - Lelystad ;Lelystad;Sint Jansdal;5;Nee;;;;;;;;;;Nee;;;;;Ziekenhuis;;;;;;;;;;;https://www.stjansdal.nl/
+52,2102994;5,46667;Sint Jansdal - Nijkerk ;Nijkerk;Sint Jansdal;5;Nee;;;;;;;;;;Nee;;;;;Polikliniek;;;;;;;;;;;
+52,2573674;5,6080506;Sint Jansdal - Putten ;Putten;Sint Jansdal;5;Nee;;;;;;;;;;Nee;;Klaas Frisohof;20;3881 SZ ;Polikliniek;;;;;;;;;;;
+52,1448813;4,6785173;Sint Maartenskliniek - Alphen aan den Rijn;Alphen aan den Rijn;Sint Maartenskliniek;5;-;;;;;;;;;;Nee;;Lupinesingel ;85;2403 CM;Polikliniek;;;;;;;;;;;
+51,6637664;5,9401984;Sint Maartenskliniek - Boxmeer;Boxmeer;Sint Maartenskliniek;5;-;;;;;;;;;;Nee;;;;;Ziekenhuis;;;;;;;;;;;
+51,41959;5,5571936;Sint Maartenskliniek - Geldrop;Geldrop;Sint Maartenskliniek;5;-;;;;;;;;;;Nee;;Bogardeind ;2;5664 EH;Ziekenhuis;;;;;;;;;;;
+51,83356161;5,8989071;Sint Maartenskliniek - Nijmegen;Nijmegen;Sint Maartenskliniek;5;-;;;;;;;;;;Nee;;Hengstdal;;;Ziekenhuis;;;;;;;;;;;
+52,0800803;4,8920389;Sint Maartenskliniek - Woerden;Woerden;Sint Maartenskliniek;5;-;;;;;;;;;;Nee;;;;;Ziekenhuis;;;;;;;;;;;
+51,97617202;6,285054637;Slingeland Ziekenhuis - Doetinchem;Doetinchem;Slingeland Ziekenhuis;2;Ja;280;;107653;64019;8398;11767;1935;;55;Nee;;Kruisbergseweg;25;7009BL;Ziekenhuis;;0,13;0,1;0,21;0,08;0,05;0,07;0,17;0,82;0,11;https://www.slingeland.nl/
+51,9543817;6,3012531;Slingeland Ziekenhuis - Doetinchem (Gezellenlaan);Doetinchem;Slingeland Ziekenhuis;2;Nee;;;;;;;;;;Nee;;Gezellenlaan;10;7005AZ;Ziekenhuis;;;;;;;;;;;https://dermatologie.slingeland.nl
+52,42254753;4,650601905;Spaarne Gasthuis - Haarlem-Noord;Haarlem;Spaarne Gasthuis;5;Ja;611;;219132;154747;24733;29107;4067;;50;Nee;;;;;Ziekenhuis;;0,33;0,38;0,7;0,53;0,24;0,21;0,15;2,54;0,58;https://spaarnegasthuis.nl
+52,3663488;4,651855086;Spaarne Gasthuis - Haarlem-Zuid;Haarlem;Spaarne Gasthuis;5;Nee;;;;;;;;;;Nee;;Boerhaavelaan;22;2035RC;Ziekenhuis;;;;;;;;;;;https://spaarnegasthuis.nl/
+52,2853481;4,578265;Spaarne Gasthuis - Hillegom;Hillegom;Spaarne Gasthuis;5;Nee;;;;;;;;;;Nee;;;;;Polikliniek;;;;;;;;;;;
+52,32390108;4,653492935;Spaarne Gasthuis - Hoofddorp;Hoofddorp;Spaarne Gasthuis;5;Nee;;;;;;;;;92;Nee;;;;;Ziekenhuis;;;;;;;;;;;https://spaarnegasthuis.nl
+52,2730298;4,6286381;Spaarne Gasthuis - Nieuw-Vennep;Nieuw-Vennep;Spaarne Gasthuis;5;Nee;;;;;;;;;;Nee;;;;;Polikliniek;;;;;;;;;;;
+51,8706305;4,3538007;Spijkenisse Medisch Centrum - Hoogvliet;Hoogvliet;Spijkenisse Medisch Centrum;3;-;;;;;;;;;;Nee;;;;;Polikliniek;;;;;;;;;;;
+51,9012549;4,2556932;Spijkenisse Medisch Centrum - Rozenburg;Rozenburg;Spijkenisse Medisch Centrum;3;-;;;;;;;;;;Nee;;;;;Polikliniek;;;;;;;;;;;
+51,84653851;4,33799569;Spijkenisse Medisch Centrum - Spijkenisse;Spijkenisse;Spijkenisse Medisch Centrum;3;-;;;;;;;;;10;Nee;;Ruwaard van Puttenweg;500;3201GZ;Ziekenhuis;;;;;;;;;;;https://www.spijkenissemc.nl/
+51,5722786;4,6597184;STAR - SHL - Etten Leur;Etten Leur;STAR - SHL;2;-;;;;;;;;;;Nee;;Bredaseweg ;165;4872 LA;Laboratorium;;;;;;;;;;;www.star-shl.nl/
+51,9556042;4,5311728;STAR - SHL - Rotterdam;Rotterdam;STAR - SHL;2;-;;;;;;;;;;Nee;;Vlambloem;21;3068 JE;Laboratorium;;;;;;;;;;;www.star-shl.nl/
+52,6430909;4,7633053;Starlet B.V.;Alkmaar;;0;-;;;;;;;;;;Nee;;Hertog Aalbrechtweg;5;1823 DL;Laboratorium;;;;;;;;;;;
+52,4574082;4,7984116;Stichting Artsenlaboratorium en Trombosedienst;Koog aan de Zaan;;0;-;;;;;;;;;;Nee;;Molenwerf;11;1541 WR;Laboratorium;;;;;;;;;;;
+53,2103512;5,7888038;Stichting Izore (Centrum Infectieziekten Friesland);Leeuwarden;;0;-;;;;;;;;;;Nee;;Jelsumerstraat;6;8917 EN;Laboratorium;;;;;;;;;;;
+52,2645387;6,7735783;Stichting Laboratorium Pathologie Oost Nederland (Ziekenhuisgroep Twente);Hengelo;;0;-;;;;;;;;;;Nee;;Boerhaavelaan;59;7555 BB;Laboratorium;;;;;;;;;;;
+51,7915225;4,6785087;Stichting Laboratorium voor Pathologie;Dordrecht;;0;-;;;;;;;;;;Nee;;Karel Lotsyweg;145;3318 AL;Laboratorium;;;;;;;;;;;
+51,4656486;5,4707509;Stichting PAMM (Catharina Ziekenhuis);Veldhoven;;0;-;;;;;;;;;;Nee;;Michelangelolaan;2;5623 EJ;Laboratorium;;;;;;;;;;;
+52,021114;5,6453988;Stichting Rode Kruis Trombosedienst Neder-Veluwe (Gelderse Vallei Ziekenhuis);Ede;;0;-;;;;;;;;;;Nee;;Willy Brandtlaan;10;6716 RP;Laboratorium;;;;;;;;;;;
+52,1246569;5,0864329;Stichting Saltro;Utrecht;;0;-;;;;;;;;;;Nee;;Mississippidreef;83;3565 CE;Laboratorium;;;;;;;;;;;www.saltro.nl
+52,3675965;4,6526003;Stichting Streeklaboratorium voor de Volksgezondheid Kennemerland (Spaarne Gasthuis);Haarlem;;0;-;;;;;;;;;;Nee;;Boerhaavelaan;26;2035 RC;Laboratorium;;;;;;;;;;;
+51,4315765;5,4839051;Stichting Synergos;Eindhoven;;0;-;;;;;;;;;;Nee;;Bomanshof;6; 5611 NJ;Laboratorium;;;;;;;;;;;
+51,9994434;4,3559076;Stichting Trombosedienst Delft en Omstreken;Delft;;0;-;;;;;;;;;;Nee;;Mercuriusweg;1;2624 BC;Laboratorium;;;;;;;;;;;https://trombosedienst-delft.nl/
+50,836826;5,7149452;Stichting Trombosedienst Maastricht (Maastricht UMC+);Maastricht;;0;-;;;;;;;;;;Nee;;Joseph Bechlaan;113;6229 GR;Laboratorium;;;;;;;;;;;
+51,4863058;5,4288219;Stichting Trombosedienst Regio Eindhoven;Eindhoven;;0;-;;;;;;;;;;Nee;;Boschdijk;1119;5626 AG;Laboratorium;;;;;;;;;;;
+51,6850985;5,27544;Stichting Trombosedienst 's Hertogenbosch (Jeroen Bosch Ziekenhuis);'s Hertogenbosch;;0;-;;;;;;;;;;Nee;;Henri Dunantstraat;1;5223 GZ;Laboratorium;;;;;;;;;;;
+52,2167522;5,2023334;Stichting Trombosedienst voor Het Gooi (Tergooi Ziekenhuis);Hilversum;;0;-;;;;;;;;;;Nee;;Van Riebeeckweg;212;1213 XZ;Laboratorium;;;;;;;;;;;
+52,0519448;4,3445718;Stichting Zorggroep Florence;Rijswijk;;0;-;;;;;;;;;;Nee;;Laan van Vredenoord;1;2289 DA;Laboratorium;;;;;;;;;;;
+52,1006549;6,6507365;Streekziekenhuis Koningin Beatrix - Eibergen;Eibergen;Streekziekenhuis Koningin Beatrix;2;Nee;;;;;;;;;;Nee;;;;;Polikliniek;;;;;;;;;;;
+51,9785184;6,7016712;Streekziekenhuis Koningin Beatrix - Winterswijk;Winterswijk;Streekziekenhuis Koningin Beatrix;2;Ja;214;;65648;50121;10055;8464;1180;150000;35;Nee;;Beatrixpark;1;7101BN;Ziekenhuis;;0,13;0,04;0,14;0,13;0,02;0,02;0,1;0,58;0,04;
+52,308299;4,9415483;Stryker;Amsterdam;Stryker;1;-;;;;;;;;;;Nee;;Herikerbergweg;145;1101 CN;Farmaceut;;;;;;;;;;;
+52,6276899;4,7376361;Symbiant (Noordwest Ziekenhuisgroep);Alkmaar;;0;-;;;;;;;;;;Nee;;Wilhelminalaan;12;1815 JD;Laboratorium;;;;;;;;;;;
+52,2675799;5,2077665;Tergooi MC - Blaricum;Blaricum;Tergooi MC;3;Nee;;;;;;;;;34;Nee;;;;;Ziekenhuis;;;;;;;;;;;
+52,21710367;5,202173233;Tergooi MC - Hilversum;Hilversum;Tergooi MC;3;Ja;454;;125027;104439;17199;15934;;;89;Nee;;;;;Ziekenhuis;;0,2;0,25;0,43;0,32;0,1;-0,06;0,27;1,51;0,3;
+52,3118168;5,0467476;Tergooi MC - Weesp;Weesp;Tergooi MC;3;Nee;;;;;;;;;;Nee;;;;;Polikliniek;;;;;;;;;;;
+52,96616879;5,917491522;Tjongerschans - Heerenveen;Heerenveen;De Tjongerschans;4;Ja;263;;174919;49311;12092;9764;1400;;69;Nee;;;;;Ziekenhuis;;0,27;0,08;0,14;0,18;0,03;0,03;0,21;0,94;0,14;
+52,9684966;5,7988101;Tjongerschans - Joure;Joure;De Tjongerschans;4;Nee;;;;;;;;;;Nee;;;;;Polikliniek;;;;;;;;;;;
+52,8461363;5,6980966;Tjongerschans - Lemmer;Lemmer;De Tjongerschans;4;Nee;;;;;;;;;;Nee;;;;;Polikliniek;;;;;;;;;;;
+52,7912013;6,1109735;Tjongerschans - Steenwijk;Steenwijk;De Tjongerschans;4;Nee;;;;;;;;;;Nee;;;;;Polikliniek;;;;;;;;;;;
+52,78598289;6,913202016;Treant - Emmen (Scheper);Emmen;Treant;4;Nee;;;;;;;;;84;Nee;;Boermarkeweg;;;Ziekenhuis;;;;;;;;;;;https://www.treant.nl/
+52,72719758;6,460638854;Treant - Hoogeveen (Bethesda);Hoogeveen;Treant;4;Ja;628;;143408;120235;17244;17354;6000;;7;Nee;;;;;Ziekenhuis;;0,27;0,39;0,51;0,32;0,11;0,34;0,02;1,96;0,42;https://www.treant.nl
+53,00191399;6,936586266;Treant - Stadskanaal (Refaja) ;Stadskanaal;Treant;4;Ja;;;;;;;;;;Nee;;Boerhaavestraat;1;9501HE;Ziekenhuis;;;;;;;;;;;https://www.treant.nl
+53,102753;6,8852892;Treant - Veendam (Refaja) ;Veendam;Treant;4;Ja;;;;;;;;;;Nee;;;;;Polikliniek;;;;;;;;;;;
+51,8880002;5,6148395;TromboseZorg Dichtbij;Druten;;0;-;;;;;;;;;;Nee;;Kerkeland;3;6651 KN;Laboratorium;;;;;;;;;;;
+51,8219961;4,6478887;Tulp Medisch Centrum;Zwijndrecht;Tulp Medisch Centrum;1;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,2232305;5,2644446;U-Diagnostics;Baarn;;0;-;;;;;;;;;;Nee;;Hermesweg;15;3741 GP;Laboratorium;;;;;;;;;;;
+53,22323475;6,573794872;Universitair Medisch Centrum Groningen;Groningen;Universitair Medisch Centrum Groningen;3;Ja;1339;;92136;75375;17351;25947;12000;;7;Nee;;Hanzeplein;1;9713GZ;Ziekenhuis;Academisch (NFU);0,2;1;0,27;0,33;0,2;0,74;0,02;2,75;0,64;
+53,2227189;6,5761874;Universitair Medisch Centrum Groningen - Beatrix Kinderziekenhuis;Groningen;Universitair Medisch Centrum Groningen;3;Nee;;;;;;;;;;Nee;;;;;Ziekenhuis;;;;;;;;;;;
+53,182441;6,5993518;Universitair Medisch Centrum Groningen - Beatrixoord;Groningen;Universitair Medisch Centrum Groningen;3;Nee;;;;;;;;;;Nee;;;;;Ziekenhuis;;;;;;;;;;;
+52,08697638;5,1801018;Universitair Medisch Centrum Utrecht;Utrecht;Universitair Medisch Centrum Utrecht;2;Ja;1042;;99067;78175;25282;25592;11000;;204;Nee;;;;;Ziekenhuis;Academisch (NFU);0,13;0,75;0,29;0,54;0,2;0,67;0,64;3,22;0,77;https://www.umcutrecht.nl/nl/
+52,0891679;5,1803369;Universitair Medisch Centrum Utrecht - Wilhelmina Kinderziekenhuis;Utrecht;Universitair Medisch Centrum Utrecht;2;Nee;;;;;;;;;;Nee;;;;;Ziekenhuis;;;;;;;;;;;
+50,8785206;4,6707682;Universiteits Ziekenhuis Leuven;Leuven;UZ Leuven;1;-;;;;;;;;;;Nee;;Herestraat;49;3000;Ziekenhuis;;;;;;;;;;;https://www.uzleuven.be/nl
+51,6064776;5,3191071;Upendo;Boxtel;Upendo;1;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,302797;4,9452734;Velthuis Kliniek - Amsterdam;Amsterdam;Velthuis Kliniek;8;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,0832061;4,3080437;Velthuis Kliniek - Den Haag;Den Haag;Velthuis Kliniek;8;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+51,4385876;5,4295809;Velthuis Kliniek - Eindhoven;Eindhoven;Velthuis Kliniek;8;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,239394;6,8425428;Velthuis Kliniek - Enschede;Enschede;Velthuis Kliniek;8;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,3691032;4,6280566;Velthuis Kliniek - Haarlem;Haarlem;Velthuis Kliniek;8;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,2110265;5,1929909;Velthuis Kliniek - Hilversum;Hilversum;Velthuis Kliniek;8;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+51,9195374;4,5327971;Velthuis Kliniek - Rotterdam;Rotterdam;Velthuis Kliniek;8;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+51,9950793;5,9655848;Velthuis Kliniek - Velp;Velp;Velthuis Kliniek;8;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,2002014;5,3924141;Vermoeidheidkliniek - Amersfoort;Amersfoort;Vermoeidheidkliniek;4;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,5048434;5,4741508;Vermoeidheidkliniek - De Bilt;De Bilt;Vermoeidheidkliniek;4;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,5048364;5,4740804;Vermoeidheidkliniek - Lelystad;Lelystad;Vermoeidheidkliniek;4;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+51,8998062;5,4353558;Vermoeidheidkliniek - Tiel;Tiel;Vermoeidheidkliniek;4;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+51,4499334;6,0466725;VieCuri Medisch Centrum - Horst;Horst;VieCuri Medisch ;5;Nee;;;;;;;;;;Nee;;;;;Polikliniek;;;;;;;;;;;
+51,3289383;5,9709538;VieCuri Medisch Centrum - Panningen;Panningen;VieCuri Medisch ;5;Nee;;;;;;;;;;Nee;;;;;Polikliniek;;;;;;;;;;;
+51,2832426;6,081209;VieCuri Medisch Centrum - Reuver;Reuver;VieCuri Medisch ;5;Nee;;;;;;;;;;Nee;;;;;Polikliniek;;;;;;;;;;;
+51,35743995;6,153722995;VieCuri Medisch Centrum - Venlo;Venlo;VieCuri Medisch ;5;Ja;486;;108971;98006;13791;17142;3000;280000;65;Nee;;;;;Ziekenhuis;;0,33;0,27;0,4;0,23;0,11;0,14;0,2;1,68;0,34;
+51,52743865;5,959940656;VieCuri Medisch Centrum - Venray;Venray;VieCuri Medisch ;5;Nee;;;;;;;;;;Nee;;;;;Ziekenhuis;;;;;;;;;;;
+51,911948;4,4295589;ViroClinics Biosciences B.V.;Rotterdam;;0;-;;;;;;;;;;Nee;;Marconistraat;16;3029 AK ;Laboratorium;;;;;;;;;;;
+51,9854238;5,9758306;Vitalys;Velp;Vitalys;1;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,3580673;4,8043804;Vrouwenkliniek Nieuw West;Amsterdam;Vrouwenkliniek Nieuw West;1;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,3211857;4,968131;Vrouwenkliniek Zuidoost;Amsterdam;Vrouwenkliniek Zuidoost;1;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,2000764;5,3920635;WeightWorks Clinics;Amersfoort;WeightWorks Clinics;1;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,98386241;6,564832341;Wilhelmina Ziekenhuis;Assen;Wilhelmina Ziekenhuis;1;Ja;251;;73336;68492;10985;10670;1400;;125;Nee;;;;;Ziekenhuis;;0,07;0,07;0,24;0,15;0,04;0,03;0,39;0,99;0,15;
+52,3244648;4,8707773;Women's Healthcare Center Amsterdam;Amsterdam;Women's Healthcare Center Amsterdam;1;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+51,4536672;5,4016429;Xpert Clinics Proctologie;Eindhoven;Xpert Clinics Proctologie;9;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,3028065;4,9451203;Xpert Clinics Proctologie - Amsterdam;Amsterdam;Xpert Clinics Proctologie;9;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,0832943;4,307989;Xpert Clinics Proctologie - Den Haag;Den Haag;Xpert Clinics Proctologie;9;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+51,438591;5,4295481;Xpert Clinics Proctologie - Eindhoven;Eindhoven;Xpert Clinics Proctologie;9;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,2394225;6,8424794;Xpert Clinics Proctologie - Enschede;Enschede;Xpert Clinics Proctologie;9;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,3691852;4,6279579;Xpert Clinics Proctologie - Haarlem;Haarlem;Xpert Clinics Proctologie;9;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,2110613;5,1929172;Xpert Clinics Proctologie - Hilversum;Hilversum;Xpert Clinics Proctologie;9;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+51,9195564;4,5328609;Xpert Clinics Proctologie - Rotterdam;Rotterdam;Xpert Clinics Proctologie;9;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+51,9950314;5,9656904;Xpert Clinics Proctologie - Velp;Velp;Xpert Clinics Proctologie;9;-;;;;;;;;;;Nee;;;;;Private kliniek;;;;;;;;;;;
+52,487974;4,7521207;Zaans Medisch Centrum - Saendelft;Saendelft;Zaans Medisch Centrum;2;Nee;;;;;;;;;;Nee;;;;;Medisch centrum;;;;;;;;;;;
+52,4533015;4,8256885;Zaans Medisch Centrum - Zaandam;Zaandam;Zaans Medisch Centrum;2;Ja;318;;61836;61836;12999;10336;;;79;Nee;;Koningin Julianaplein;58;1502DV;Ziekenhuis;;0,13;0,13;0,2;0,21;0,04;-0,06;0,24;0,89;0,13;https://www.zaansmedischcentrum.nl/
+52,3068805;4,9421301;Zambon Pharma;Amsterdam;Zambon Pharma;1;-;;;;;;;;;;Nee;;Herikerbergweg;292;1101 CT;Farmaceut;;;;;;;;;;;https://www.zambonpharma.com/nl/nl/
+52,29399779;4,87401265;Ziekenhuis Amstelland;Amstelveen;Ziekenhuis Amstelland;1;Ja;255;;65319;60706;10696;100362;1000;;72;Nee;;Laan van de Helende Meesters;8;1186AM;Ziekenhuis;;0,07;0,08;0,2;0,14;1;0,01;0,22;1,71;0,35;https://www.ziekenhuisamstelland.nl/
+52,1398976;5,5990668;Ziekenhuis Gelderse Vallei - Barneveld;Barneveld;Ziekenhuis Gelderse Vallei;4;Nee;;;;;;;;;;Nee;;;;;Polikliniek;;;;;;;;;;;
+52,02203701;5,645974279;Ziekenhuis Gelderse Vallei - Ede;Ede;Ziekenhuis Gelderse Vallei;4;Ja;446;;113793;92760;15031;16630;2817;260000;77;Nee;;;;;Ziekenhuis;;0,27;0,24;0,37;0,26;0,1;0,13;0,24;1,6;0,32;https://www.geldersevallei.nl/
+52,0183724;5,5493986;Ziekenhuis Gelderse Vallei - Veenendaal;Veenendaal;Ziekenhuis Gelderse Vallei;4;Nee;;;;;;;;;;Nee;;;;;Polikliniek;;;;;;;;;;;
+51,9685025;5,6647932;Ziekenhuis Gelderse Vallei - Wageningen;Wageningen;Ziekenhuis Gelderse Vallei;4;Nee;;;;;;;;;;Nee;;;;;Polikliniek;;;;;;;;;;;
+51,9586317;5,2285012;Ziekenhuis Rivierenland - Culenborg;Culenborg;Ziekenhuis Rivierenland;2;Nee;;;;;;;;;;Nee;;;;;Polikliniek;;;;;;;;;;;
+51,89019104;5,41523524;Ziekenhuis Rivierenland - Tiel;Tiel;Ziekenhuis Rivierenland;2;Ja;262;;64697;55947;8042;10197;1500;;62;Nee;;President Kennedylaan;1;4002WP;Ziekenhuis;;0,13;0,08;0,17;0,07;0,03;0,04;0,19;0,72;0,08;https://www.ziekenhuisrivierenland.nl/
+52,337155;6,6408034;Ziekenhuisgroep Twente - Almelo;Almelo;Ziekenhuisgroep Twente;2;Ja;601;;81040;118127;19013;22240;3420;;42;Nee;;Zilvermeeuw;1;7609PP;Ziekenhuis;Top klinisch;0,13;0,37;0,5;0,37;0,16;0,17;0,13;1,84;0,39;https://www.zgt.nl
+52,263175;6,770632;Ziekenhuisgroep Twente - Hengelo;Hengelo;Ziekenhuisgroep Twente;2;Nee;;;;;;;;;;Nee;;;;;Ziekenhuis;Top klinisch;;;;;;;;;;https://www.zgt.nl
+51,5043205;4,7458009;Zimmer Biomet Nederland B.V. - Breda;Breda;Zimmer Biomet Nederland B.V.;2;-;;;;;;;;;;Nee;;Hazeldonk;6530;4836 LD;Farmaceut;;;;;;;;;;;https://www.zimmerbiomet.eu/
+51,7694847;4,6336355;Zimmer Biomet Nederland B.V. - Dordrecht;Dordrecht;Zimmer Biomet Nederland B.V.;2;-;;;;;;;;;;Nee;;Toermalijnring;600;3316 LC;Farmaceut;;;;;;;;;;;https://www.zimmerbiomet.eu/
+51,3249615;3,4815907;ZorgSaam Zorggroep Zeeuws-Vlaanderen - Antonius - Oostburg;Oostburg;ZorgSaam Zorggroep Zeeuws-Vlaanderen;3;Nee;;;;;;;;;;Nee;;Pastoor van Genklaan;6;4501AJ;Ziekenhuis;;;;;;;;;;;
+51,30898397;3,860708472;ZorgSaam Zorggroep Zeeuws-Vlaanderen - De Honte - Terneuzen;Terneuzen;ZorgSaam Zorggroep Zeeuws-Vlaanderen;3;Ja;235;;53304;53304;10772;9520;3500;;97;Nee;;;;;Ziekenhuis;;0,2;0,06;0,16;0,15;0,03;0,17;0,3;1,06;0,17;
+51,28703693;4,050775773;ZorgSaam Zorggroep Zeeuws-Vlaanderen - Liduina - Hulst;Hulst;ZorgSaam Zorggroep Zeeuws-Vlaanderen;3;Nee;;;;;;;;;;Nee;;;;;Ziekenhuis;;;;;;;;;;;
+50,9415955;5,9781448;Zuyderland - Brunsum;Brunsum;Zuyderland;5;Nee;;;;;;;;;;Nee;;;;;Ziekenhuis;;;;;;;;;;;https://www.zuyderland.nl/
+51,1058822;5,8729326;Zuyderland - Echt;Echt;Zuyderland;5;Nee;;;;;;;;;;Nee;;;;;Polikliniek;;;;;;;;;;;https://www.zuyderland.nl/
+50,86887295;5,977531093;Zuyderland - Heerlen;Heerlen;Zuyderland;5;Nee;;;;;;;;;59;Nee;;;;;Ziekenhuis;;;;;;;;;;;https://www.zuyderland.nl/
+50,8662487;6,060331;Zuyderland - Kerkrade;Kerkrade;Zuyderland;5;Nee;;;;;;;;;;Nee;;;;;Ziekenhuis;;;;;;;;;;;https://www.zuyderland.nl/
+50,98390332;5,841987917;Zuyderland - Sittart- Geleen;Geleen;Zuyderland;5;Ja;980;;122282;193693;41040;35401;9000;;102;Nee;;;;;Ziekenhuis;;0,33;0,69;0,91;0,97;0,3;0,54;0,32;4,06;1;https://www.zuyderland.nl/

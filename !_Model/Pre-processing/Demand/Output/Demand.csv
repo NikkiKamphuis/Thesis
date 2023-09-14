@@ -1,0 +1,82 @@
+start,origin,destination,deadline,type,volume,mass
+7,Leids Universitair Medisch Centrum Academisch Ziekenhuis Leiden,Alrijne Loc. Alphen a/d Rijn,141,semi-urgent,10,20
+12,Erasmus Medisch Centrum Sophia,Leids Universitair Medisch Centrum Academisch Ziekenhuis Leiden,72,urgent,10,20
+17,Erasmus Medisch Centrum Sophia,HagaZiekenhuis Loc. Sportlaan,77,urgent,10,20
+45,HagaZiekenhuis Loc. Sportlaan,Alrijne Loc. Alphen a/d Rijn,199,semi-urgent,10,20
+56,HagaZiekenhuis Loc. Sportlaan,Erasmus Medisch Centrum Sophia,1440,same-day,10,20
+56,HagaZiekenhuis Loc. Sportlaan,Alrijne Loc. Alphen a/d Rijn,1440,same-day,10,20
+101,HagaZiekenhuis Loc. Sportlaan,Alrijne Loc. Alphen a/d Rijn,1440,same-day,10,20
+107,HagaZiekenhuis Loc. Sportlaan,Erasmus Medisch Centrum Sophia,1440,same-day,10,20
+128,Erasmus Medisch Centrum Sophia,Leids Universitair Medisch Centrum Academisch Ziekenhuis Leiden,326,semi-urgent,10,20
+129,Erasmus Medisch Centrum Sophia,Alrijne Loc. Alphen a/d Rijn,285,semi-urgent,10,20
+140,Erasmus Medisch Centrum Sophia,Alrijne Loc. Alphen a/d Rijn,1440,same-day,10,20
+151,Leids Universitair Medisch Centrum Academisch Ziekenhuis Leiden,Erasmus Medisch Centrum Sophia,1440,same-day,10,20
+163,Erasmus Medisch Centrum Sophia,Alrijne Loc. Alphen a/d Rijn,223,urgent,10,20
+184,Leids Universitair Medisch Centrum Academisch Ziekenhuis Leiden,Erasmus Medisch Centrum Sophia,244,urgent,10,20
+221,Leids Universitair Medisch Centrum Academisch Ziekenhuis Leiden,Erasmus Medisch Centrum Sophia,1440,same-day,10,20
+239,Alrijne Loc. Alphen a/d Rijn,Erasmus Medisch Centrum Sophia,299,urgent,10,20
+248,Alrijne Loc. Alphen a/d Rijn,Leids Universitair Medisch Centrum Academisch Ziekenhuis Leiden,1440,same-day,10,20
+262,Erasmus Medisch Centrum Sophia,Alrijne Loc. Alphen a/d Rijn,471,semi-urgent,10,20
+264,Alrijne Loc. Alphen a/d Rijn,Leids Universitair Medisch Centrum Academisch Ziekenhuis Leiden,324,urgent,10,20
+271,Erasmus Medisch Centrum Sophia,Alrijne Loc. Alphen a/d Rijn,448,semi-urgent,10,20
+282,Erasmus Medisch Centrum Sophia,Leids Universitair Medisch Centrum Academisch Ziekenhuis Leiden,1440,same-day,10,20
+293,Alrijne Loc. Alphen a/d Rijn,HagaZiekenhuis Loc. Sportlaan,353,urgent,10,20
+303,Alrijne Loc. Alphen a/d Rijn,Leids Universitair Medisch Centrum Academisch Ziekenhuis Leiden,363,urgent,10,20
+305,HagaZiekenhuis Loc. Sportlaan,Alrijne Loc. Alphen a/d Rijn,1440,same-day,10,20
+308,HagaZiekenhuis Loc. Sportlaan,Erasmus Medisch Centrum Sophia,449,semi-urgent,10,20
+320,Leids Universitair Medisch Centrum Academisch Ziekenhuis Leiden,Alrijne Loc. Alphen a/d Rijn,542,semi-urgent,10,20
+353,Alrijne Loc. Alphen a/d Rijn,HagaZiekenhuis Loc. Sportlaan,1440,same-day,10,20
+386,Erasmus Medisch Centrum Sophia,Alrijne Loc. Alphen a/d Rijn,581,semi-urgent,10,20
+387,Leids Universitair Medisch Centrum Academisch Ziekenhuis Leiden,Alrijne Loc. Alphen a/d Rijn,447,urgent,10,20
+396,HagaZiekenhuis Loc. Sportlaan,Erasmus Medisch Centrum Sophia,608,semi-urgent,10,20
+402,Alrijne Loc. Alphen a/d Rijn,Erasmus Medisch Centrum Sophia,462,urgent,10,20
+428,Leids Universitair Medisch Centrum Academisch Ziekenhuis Leiden,HagaZiekenhuis Loc. Sportlaan,488,urgent,10,20
+436,HagaZiekenhuis Loc. Sportlaan,Leids Universitair Medisch Centrum Academisch Ziekenhuis Leiden,496,urgent,10,20
+441,Alrijne Loc. Alphen a/d Rijn,Leids Universitair Medisch Centrum Academisch Ziekenhuis Leiden,585,semi-urgent,10,20
+446,Leids Universitair Medisch Centrum Academisch Ziekenhuis Leiden,Erasmus Medisch Centrum Sophia,607,semi-urgent,10,20
+456,HagaZiekenhuis Loc. Sportlaan,Erasmus Medisch Centrum Sophia,516,urgent,10,20
+466,HagaZiekenhuis Loc. Sportlaan,Erasmus Medisch Centrum Sophia,1440,same-day,10,20
+471,HagaZiekenhuis Loc. Sportlaan,Leids Universitair Medisch Centrum Academisch Ziekenhuis Leiden,1440,same-day,10,20
+506,HagaZiekenhuis Loc. Sportlaan,Erasmus Medisch Centrum Sophia,1440,same-day,10,20
+514,Alrijne Loc. Alphen a/d Rijn,Leids Universitair Medisch Centrum Academisch Ziekenhuis Leiden,574,urgent,10,20
+543,Erasmus Medisch Centrum Sophia,Leids Universitair Medisch Centrum Academisch Ziekenhuis Leiden,603,urgent,10,20
+567,Leids Universitair Medisch Centrum Academisch Ziekenhuis Leiden,HagaZiekenhuis Loc. Sportlaan,767,semi-urgent,10,20
+591,Leids Universitair Medisch Centrum Academisch Ziekenhuis Leiden,Alrijne Loc. Alphen a/d Rijn,1440,same-day,10,20
+601,Alrijne Loc. Alphen a/d Rijn,Leids Universitair Medisch Centrum Academisch Ziekenhuis Leiden,661,urgent,10,20
+615,Alrijne Loc. Alphen a/d Rijn,Erasmus Medisch Centrum Sophia,1440,same-day,10,20
+621,Erasmus Medisch Centrum Sophia,HagaZiekenhuis Loc. Sportlaan,839,semi-urgent,10,20
+663,HagaZiekenhuis Loc. Sportlaan,Leids Universitair Medisch Centrum Academisch Ziekenhuis Leiden,809,semi-urgent,10,20
+686,Erasmus Medisch Centrum Sophia,Leids Universitair Medisch Centrum Academisch Ziekenhuis Leiden,1440,same-day,10,20
+701,Leids Universitair Medisch Centrum Academisch Ziekenhuis Leiden,Erasmus Medisch Centrum Sophia,761,urgent,10,20
+707,Alrijne Loc. Alphen a/d Rijn,HagaZiekenhuis Loc. Sportlaan,767,urgent,10,20
+711,Alrijne Loc. Alphen a/d Rijn,Erasmus Medisch Centrum Sophia,1440,same-day,10,20
+735,Erasmus Medisch Centrum Sophia,Leids Universitair Medisch Centrum Academisch Ziekenhuis Leiden,795,urgent,10,20
+736,Leids Universitair Medisch Centrum Academisch Ziekenhuis Leiden,Alrijne Loc. Alphen a/d Rijn,1440,same-day,10,20
+744,HagaZiekenhuis Loc. Sportlaan,Leids Universitair Medisch Centrum Academisch Ziekenhuis Leiden,1440,same-day,10,20
+794,Alrijne Loc. Alphen a/d Rijn,Leids Universitair Medisch Centrum Academisch Ziekenhuis Leiden,854,urgent,10,20
+855,Leids Universitair Medisch Centrum Academisch Ziekenhuis Leiden,Erasmus Medisch Centrum Sophia,1019,semi-urgent,10,20
+857,HagaZiekenhuis Loc. Sportlaan,Leids Universitair Medisch Centrum Academisch Ziekenhuis Leiden,917,urgent,10,20
+892,Alrijne Loc. Alphen a/d Rijn,HagaZiekenhuis Loc. Sportlaan,1440,same-day,10,20
+920,Erasmus Medisch Centrum Sophia,HagaZiekenhuis Loc. Sportlaan,1107,semi-urgent,10,20
+930,Erasmus Medisch Centrum Sophia,Alrijne Loc. Alphen a/d Rijn,1440,same-day,10,20
+944,Leids Universitair Medisch Centrum Academisch Ziekenhuis Leiden,Erasmus Medisch Centrum Sophia,1004,urgent,10,20
+964,HagaZiekenhuis Loc. Sportlaan,Alrijne Loc. Alphen a/d Rijn,1024,urgent,10,20
+1000,HagaZiekenhuis Loc. Sportlaan,Alrijne Loc. Alphen a/d Rijn,1223,semi-urgent,10,20
+1003,HagaZiekenhuis Loc. Sportlaan,Erasmus Medisch Centrum Sophia,1440,same-day,10,20
+1004,Leids Universitair Medisch Centrum Academisch Ziekenhuis Leiden,HagaZiekenhuis Loc. Sportlaan,1064,urgent,10,20
+1044,Leids Universitair Medisch Centrum Academisch Ziekenhuis Leiden,Erasmus Medisch Centrum Sophia,1104,urgent,10,20
+1051,Leids Universitair Medisch Centrum Academisch Ziekenhuis Leiden,Alrijne Loc. Alphen a/d Rijn,1236,semi-urgent,10,20
+1054,Erasmus Medisch Centrum Sophia,Leids Universitair Medisch Centrum Academisch Ziekenhuis Leiden,1114,urgent,10,20
+1085,Leids Universitair Medisch Centrum Academisch Ziekenhuis Leiden,Erasmus Medisch Centrum Sophia,1440,same-day,10,20
+1118,Leids Universitair Medisch Centrum Academisch Ziekenhuis Leiden,Erasmus Medisch Centrum Sophia,1440,same-day,10,20
+1143,Leids Universitair Medisch Centrum Academisch Ziekenhuis Leiden,Alrijne Loc. Alphen a/d Rijn,1440,same-day,10,20
+1160,HagaZiekenhuis Loc. Sportlaan,Alrijne Loc. Alphen a/d Rijn,1287,semi-urgent,10,20
+1163,Erasmus Medisch Centrum Sophia,HagaZiekenhuis Loc. Sportlaan,1223,urgent,10,20
+1272,Alrijne Loc. Alphen a/d Rijn,Erasmus Medisch Centrum Sophia,1332,urgent,10,20
+1276,Leids Universitair Medisch Centrum Academisch Ziekenhuis Leiden,Alrijne Loc. Alphen a/d Rijn,1399,semi-urgent,10,20
+1280,Leids Universitair Medisch Centrum Academisch Ziekenhuis Leiden,HagaZiekenhuis Loc. Sportlaan,1340,urgent,10,20
+1281,Alrijne Loc. Alphen a/d Rijn,Leids Universitair Medisch Centrum Academisch Ziekenhuis Leiden,1440,same-day,10,20
+1302,Leids Universitair Medisch Centrum Academisch Ziekenhuis Leiden,Alrijne Loc. Alphen a/d Rijn,1362,urgent,10,20
+1304,Erasmus Medisch Centrum Sophia,HagaZiekenhuis Loc. Sportlaan,1364,urgent,10,20
+1318,Alrijne Loc. Alphen a/d Rijn,Leids Universitair Medisch Centrum Academisch Ziekenhuis Leiden,1378,urgent,10,20
+1331,Alrijne Loc. Alphen a/d Rijn,Erasmus Medisch Centrum Sophia,1440,same-day,10,20
